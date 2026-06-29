@@ -1,0 +1,349 @@
+[
+  {
+    "question": "(Appeared 3 Times)",
+    "all_wordings": [
+      "(Appeared 2 Times)",
+      "(Appeared 3 Times)",
+      "Appeared 3 Times:",
+      "Appeared 2 Times:"
+    ],
+    "years": [
+      "2019",
+      "2020",
+      "2021",
+      "2023",
+      "2025"
+    ],
+    "papers": [
+      "Paper 2"
+    ],
+    "marks": [],
+    "frequency": 12,
+    "topic": "Miscellaneous"
+  },
+  {
+    "question": "Hypoxic Pulmonary Vasoconstriction.",
+    "all_wordings": [
+      "Hypoxic Pulmonary Vasoconstriction",
+      "Hypoxic pulmonary",
+      "Hypoxic Pulmonary",
+      "Hypoxic Pulmonary Vasoconstriction."
+    ],
+    "years": [
+      "2019",
+      "2020",
+      "2025"
+    ],
+    "papers": [
+      "Paper 1",
+      "Paper 2",
+      "Paper 3"
+    ],
+    "marks": [],
+    "frequency": 5,
+    "topic": "Respiratory System"
+  },
+  {
+    "question": "Supraglottic airway devices",
+    "all_wordings": [
+      "Supraglottic airway devices"
+    ],
+    "years": [
+      "2019"
+    ],
+    "papers": [
+      "Paper 2"
+    ],
+    "marks": [],
+    "frequency": 4,
+    "topic": "Airway"
+  },
+  {
+    "question": "a What are the anaesthetic challenges of pediatric patients. Describe we anaesthetic",
+    "all_wordings": [
+      "a What are the anaesthetic challenges of pediatric patients. Describe we anaesthetic",
+      "Anaesthetic challenges for",
+      "Anaesthetic Challenges in Bronchoscopy,",
+      "Anaesthetic challenges in"
+    ],
+    "years": [
+      "2019",
+      "2022",
+      "2025"
+    ],
+    "papers": [
+      "Paper 2",
+      "Paper 3"
+    ],
+    "marks": [],
+    "frequency": 4,
+    "topic": "Paediatric Anaesthesia"
+  },
+  {
+    "question": "All India Institute of Medical Sciences, Bhubaneswar",
+    "all_wordings": [
+      "ALL INDIA INSTITUTE OF MEDICAL SCIENCES, BHOPAL",
+      "All India Institute of Medical Sciences, Bhubaneswar",
+      "ALL INDIA INSTITUTE OF MEDICAL SCIENCES, BHOPA"
+    ],
+    "years": [
+      "2019",
+      "2025"
+    ],
+    "papers": [
+      "Paper 1",
+      "Paper 2",
+      "Paper 4"
+    ],
+    "marks": [],
+    "frequency": 4,
+    "topic": "Blood & Transfusion"
+  },
+  {
+    "question": "Describe anatomy of brachial plexus. Enumerate",
+    "all_wordings": [
+      "Describe anatomy of brachial plexus. Enumerate",
+      "Anatomy of Brachial plexus",
+      "\u2018of brachial plexus"
+    ],
+    "years": [
+      "2019",
+      "2025"
+    ],
+    "papers": [
+      "Paper 1",
+      "Paper 2"
+    ],
+    "marks": [],
+    "frequency": 3,
+    "topic": "Regional Anaesthesia"
+  },
+  {
+    "question": "be Intraoperative Neuromuscular Monitoring.",
+    "all_wordings": [
+      "neuromuscular monitoring",
+      "Monitoring during",
+      "be Intraoperative Neuromuscular Monitoring."
+    ],
+    "years": [
+      "2019",
+      "2025"
+    ],
+    "papers": [
+      "Paper 1",
+      "Paper 2",
+      "Paper 3"
+    ],
+    "marks": [],
+    "frequency": 3,
+    "topic": "CNS & Neuroanaesthesia"
+  },
+  {
+    "question": "Anaesthesia Record keeping",
+    "all_wordings": [
+      "Anesthesia record keeping",
+      "Anaesthesia record keeping",
+      "Anaesthesia Record keeping"
+    ],
+    "years": [
+      "2019"
+    ],
+    "papers": [
+      "Paper 2",
+      "Paper 3"
+    ],
+    "marks": [],
+    "frequency": 3,
+    "topic": "Ethics & Consent"
+  },
+  {
+    "question": "Hepato renal syndrome and its anesthetic implications.",
+    "all_wordings": [
+      "Hepato renal syndrome and its anesthetic implications.",
+      "Hepato Renal syndrome",
+      "Aug-2021: Q2b. Hepato renal syndrome"
+    ],
+    "years": [
+      "2019",
+      "2021",
+      "2025"
+    ],
+    "papers": [
+      "Paper 2",
+      "Paper 3",
+      "Paper 4"
+    ],
+    "marks": [],
+    "frequency": 3,
+    "topic": "Renal"
+  },
+  {
+    "question": "Describe physiological changes of pregnancy. What is",
+    "all_wordings": [
+      "Describe physiological changes of pregnancy. What is",
+      "Describe physiological changes during pregnancy"
+    ],
+    "years": [],
+    "papers": [
+      "Paper 2"
+    ],
+    "marks": [],
+    "frequency": 2,
+    "topic": "Obstetric Anaesthesia"
+  },
+  {
+    "question": "pregnancy induced hypertension.",
+    "all_wordings": [
+      "induced hypertension.",
+      "pregnancy induced hypertension."
+    ],
+    "years": [],
+    "papers": [
+      "Paper 2"
+    ],
+    "marks": [],
+    "frequency": 2,
+    "topic": "Cardiovascular System"
+  },
+  {
+    "question": "intra cranial pressure. What is the clinical presentation",
+    "all_wordings": [
+      "intra cranial pressure",
+      "intra cranial pressure. What is the clinical presentation"
+    ],
+    "years": [
+      "2019"
+    ],
+    "papers": [
+      "Paper 2"
+    ],
+    "marks": [],
+    "frequency": 2,
+    "topic": "Miscellaneous"
+  },
+  {
+    "question": "management of a patient of S.O.L with raised icp for",
+    "all_wordings": [
+      "and management of raised ICP.",
+      "management of a patient of S.O.L with raised icp for"
+    ],
+    "years": [],
+    "papers": [
+      "Paper 2"
+    ],
+    "marks": [],
+    "frequency": 2,
+    "topic": "CNS & Neuroanaesthesia"
+  },
+  {
+    "question": "What is oxygen therapy? What are the various",
+    "all_wordings": [
+      "What is oxygen therapy? What are the various",
+      "Oxygen therapy in COVID"
+    ],
+    "years": [
+      "2019"
+    ],
+    "papers": [
+      "Paper 2",
+      "Paper 3"
+    ],
+    "marks": [],
+    "frequency": 2,
+    "topic": "Equipment"
+  },
+  {
+    "question": "scheduled for thoracotomy.",
+    "all_wordings": [
+      "thoracotomy. > : S.",
+      "scheduled for thoracotomy."
+    ],
+    "years": [
+      "2025"
+    ],
+    "papers": [
+      "Paper 2"
+    ],
+    "marks": [],
+    "frequency": 2,
+    "topic": "Respiratory System"
+  },
+  {
+    "question": "management of a patient of diabetes mellitus scheduled",
+    "all_wordings": [
+      "management of a patient of diabetes mellitus scheduled",
+      "management of a patient scheduled for"
+    ],
+    "years": [],
+    "papers": [
+      "Paper 2"
+    ],
+    "marks": [],
+    "frequency": 2,
+    "topic": "Miscellaneous"
+  },
+  {
+    "question": "for emergency exploratory laparotomy.",
+    "all_wordings": [
+      "posted for emergency laparotomy",
+      "for emergency exploratory laparotomy."
+    ],
+    "years": [],
+    "papers": [
+      "Paper 2",
+      "Paper 4"
+    ],
+    "marks": [],
+    "frequency": 2,
+    "topic": "Miscellaneous"
+  },
+  {
+    "question": "Describe the peri operative preparation and anesthetic",
+    "all_wordings": [
+      "Describe the peri operative preparation and anesthetic",
+      "Discuss the peri operative preparation and anaesthetic"
+    ],
+    "years": [],
+    "papers": [
+      "Paper 2",
+      "Paper 4"
+    ],
+    "marks": [],
+    "frequency": 2,
+    "topic": "Miscellaneous"
+  },
+  {
+    "question": "laparoscopic cholecystectomy.",
+    "all_wordings": [
+      "laparoscopic cholecystectomy.",
+      "cholecystectomy."
+    ],
+    "years": [
+      "2025"
+    ],
+    "papers": [
+      "Paper 2"
+    ],
+    "marks": [
+      "10"
+    ],
+    "frequency": 2,
+    "topic": "Miscellaneous"
+  },
+  {
+    "question": "Disease) for transplant or other surgery.",
+    "all_wordings": [
+      "Disease) for transplant or other surgery.",
+      "transplant surgery."
+    ],
+    "years": [
+      "2021"
+    ],
+    "papers": [
+      "Paper 2"
+    ],
+    "marks": [],
+    "frequency": 2,
+    "topic": "Miscellaneous"
+  }
+]

@@ -1,0 +1,8528 @@
+# Master Question Bank
+
+## Frequency Analysis
+- Asked once: 1038
+- Asked twice: 83
+- Asked 3+ times: 37
+
+## Predicted Questions for Next Exam
+1. **Miscellaneous**: (Appeared 3 Times) (Asked 12 times)
+2. **Respiratory System**: Hypoxic Pulmonary Vasoconstriction. (Asked 5 times)
+3. **Airway**: Supraglottic airway devices (Asked 4 times)
+4. **Paediatric Anaesthesia**: a What are the anaesthetic challenges of pediatric patients. Describe we anaesthetic (Asked 4 times)
+5. **Blood & Transfusion**: All India Institute of Medical Sciences, Bhubaneswar (Asked 4 times)
+6. **Regional Anaesthesia**: Describe anatomy of brachial plexus. Enumerate (Asked 3 times)
+7. **CNS & Neuroanaesthesia**: be Intraoperative Neuromuscular Monitoring. (Asked 3 times)
+8. **Ethics & Consent**: Anaesthesia Record keeping (Asked 3 times)
+9. **Renal**: Hepato renal syndrome and its anesthetic implications. (Asked 3 times)
+10. **Obstetric Anaesthesia**: Describe physiological changes of pregnancy. What is (Asked 2 times)
+11. **Cardiovascular System**: pregnancy induced hypertension. (Asked 2 times)
+12. **Miscellaneous**: intra cranial pressure. What is the clinical presentation (Asked 2 times)
+13. **CNS & Neuroanaesthesia**: management of a patient of S.O.L with raised icp for (Asked 2 times)
+14. **Equipment**: What is oxygen therapy? What are the various (Asked 2 times)
+15. **Respiratory System**: scheduled for thoracotomy. (Asked 2 times)
+16. **Miscellaneous**: management of a patient of diabetes mellitus scheduled (Asked 2 times)
+17. **Miscellaneous**: for emergency exploratory laparotomy. (Asked 2 times)
+18. **Miscellaneous**: Describe the peri operative preparation and anesthetic (Asked 2 times)
+19. **Miscellaneous**: laparoscopic cholecystectomy. (Asked 2 times)
+20. **Miscellaneous**: Disease) for transplant or other surgery. (Asked 2 times)
+
+## High-Yield Revision List
+
+### Top 25
+1. **Miscellaneous**: (Appeared 3 Times) (Freq: 12)
+2. **Miscellaneous**: Describe the anaesthetic management and postop management of (Freq: 6)
+3. **Miscellaneous**: Questions (Appeared 1 Time) (Freq: 6)
+4. **Miscellaneous**: congenital diaphragmatic hernia posted for repair (Freq: 5)
+5. **Respiratory System**: Hypoxic Pulmonary Vasoconstriction. (Freq: 5)
+6. **Miscellaneous**: Short Notes (Any six) (10 Marks each) (Freq: 5)
+7. **Miscellaneous**: Discuss peri operative management of neonatal with (Freq: 4)
+8. **Miscellaneous**: management for pheochromocytoma (Freq: 4)
+9. **Airway**: Supraglottic airway devices (Freq: 4)
+10. **Paediatric Anaesthesia**: a What are the anaesthetic challenges of pediatric patients. Describe we anaesthetic (Freq: 4)
+11. **Miscellaneous**: Management of Post tonsillectomy bleed (Freq: 4)
+12. **Blood & Transfusion**: All India Institute of Medical Sciences, Bhubaneswar (Freq: 4)
+13. **Blood & Transfusion**: Madhya Pradesh Medical Science University, 5 abalpu: (Freq: 4)
+14. **Miscellaneous**: in ‘Do notwrite anything on the blank portion of the question Paper= such type of act will be considered asan (Freq: 4)
+15. **Miscellaneous**: will be considered as an attempt to resort to unfair means. (Freq: 4)
+16. **Miscellaneous**: Most Repeated Short Answer Questions (Freq: 4)
+17. **Regional Anaesthesia**: Describe anatomy of brachial plexus. Enumerate (Freq: 3)
+18. **CNS & Neuroanaesthesia**: be Intraoperative Neuromuscular Monitoring. (Freq: 3)
+19. **Miscellaneous**: Describe preoperative evaluation and anaesthetic (Freq: 3)
+20. **Miscellaneous**: What are the anatomical and physiological changes of (Freq: 3)
+21. **Miscellaneous**: Discuss anesthetic management of a patient with drug (Freq: 3)
+22. **Miscellaneous**: Discuss anesthetic considerations and intra-operative (Freq: 3)
+23. **Ethics & Consent**: Anaesthesia Record keeping (Freq: 3)
+24. **Miscellaneous**: Oxygen Dissociation Curve (2025e) (Freq: 3)
+25. **Miscellaneous**: Venturi principle and its (Freq: 3)
+
+### Top 50
+1. **Miscellaneous**: (Appeared 3 Times) (Freq: 12)
+2. **Miscellaneous**: Describe the anaesthetic management and postop management of (Freq: 6)
+3. **Miscellaneous**: Questions (Appeared 1 Time) (Freq: 6)
+4. **Miscellaneous**: congenital diaphragmatic hernia posted for repair (Freq: 5)
+5. **Respiratory System**: Hypoxic Pulmonary Vasoconstriction. (Freq: 5)
+6. **Miscellaneous**: Short Notes (Any six) (10 Marks each) (Freq: 5)
+7. **Miscellaneous**: Discuss peri operative management of neonatal with (Freq: 4)
+8. **Miscellaneous**: management for pheochromocytoma (Freq: 4)
+9. **Airway**: Supraglottic airway devices (Freq: 4)
+10. **Paediatric Anaesthesia**: a What are the anaesthetic challenges of pediatric patients. Describe we anaesthetic (Freq: 4)
+11. **Miscellaneous**: Management of Post tonsillectomy bleed (Freq: 4)
+12. **Blood & Transfusion**: All India Institute of Medical Sciences, Bhubaneswar (Freq: 4)
+13. **Blood & Transfusion**: Madhya Pradesh Medical Science University, 5 abalpu: (Freq: 4)
+14. **Miscellaneous**: in ‘Do notwrite anything on the blank portion of the question Paper= such type of act will be considered asan (Freq: 4)
+15. **Miscellaneous**: will be considered as an attempt to resort to unfair means. (Freq: 4)
+16. **Miscellaneous**: Most Repeated Short Answer Questions (Freq: 4)
+17. **Regional Anaesthesia**: Describe anatomy of brachial plexus. Enumerate (Freq: 3)
+18. **CNS & Neuroanaesthesia**: be Intraoperative Neuromuscular Monitoring. (Freq: 3)
+19. **Miscellaneous**: Describe preoperative evaluation and anaesthetic (Freq: 3)
+20. **Miscellaneous**: What are the anatomical and physiological changes of (Freq: 3)
+21. **Miscellaneous**: Discuss anesthetic management of a patient with drug (Freq: 3)
+22. **Miscellaneous**: Discuss anesthetic considerations and intra-operative (Freq: 3)
+23. **Ethics & Consent**: Anaesthesia Record keeping (Freq: 3)
+24. **Miscellaneous**: Oxygen Dissociation Curve (2025e) (Freq: 3)
+25. **Miscellaneous**: Venturi principle and its (Freq: 3)
+26. **Miscellaneous**: 4, What is low flow anaesthesia and minimal flow anaesthesia? Discuss advantages and (Freq: 3)
+27. **Miscellaneous**: Gas Equation (2020c) / Minimum Alveolar (Freq: 3)
+28. **Miscellaneous**: vasoconstriction (Freq: 3)
+29. **Miscellaneous**: organophosphorus poisoning (Freq: 3)
+30. **Renal**: Hepato renal syndrome and its anesthetic implications. (Freq: 3)
+31. **Miscellaneous**: thyroidectomy. Discuss the preoperative preparation and anaesthetic management. (+5) (Freq: 3)
+32. **Miscellaneous**: |. Long Answer Questions (Any Two) (Freq: 3)
+33. **Miscellaneous**: HW. Answers of Questions and Sub questions must be written strictly according to the serial order of (Freq: 3)
+34. **Miscellaneous**: question paper, otherwise the question shall not be valind ) (Freq: 3)
+35. **Blood & Transfusion**: HAMDARD INSTITUTE OF MEDICAL SCIENCES & RESEARCH (Freq: 3)
+36. **Miscellaneous**: ‘MD ANAESTHESIOLOGY ANNUAL EXAMINATION 2025 (BATCH 2021) (Freq: 3)
+37. **Miscellaneous**: |. Long Answer Questions (Attempt Any (Freq: 3)
+38. **Paediatric Anaesthesia**: Describe the management of a 3 year old child with (Freq: 2)
+39. **Obstetric Anaesthesia**: Describe physiological changes of pregnancy. What is (Freq: 2)
+40. **Cardiovascular System**: pregnancy induced hypertension. (Freq: 2)
+41. **Miscellaneous**: intra cranial pressure. What is the clinical presentation (Freq: 2)
+42. **CNS & Neuroanaesthesia**: management of a patient of S.O.L with raised icp for (Freq: 2)
+43. **Equipment**: What is oxygen therapy? What are the various (Freq: 2)
+44. **Respiratory System**: scheduled for thoracotomy. (Freq: 2)
+45. **Miscellaneous**: management of a patient of diabetes mellitus scheduled (Freq: 2)
+46. **Miscellaneous**: for emergency exploratory laparotomy. (Freq: 2)
+47. **Miscellaneous**: Describe the peri operative preparation and anesthetic (Freq: 2)
+48. **Miscellaneous**: laparoscopic cholecystectomy. (Freq: 2)
+49. **Miscellaneous**: Disease) for transplant or other surgery. (Freq: 2)
+50. **Miscellaneous**: Describe the anesthetic challenges in morbidly obese (Freq: 2)
+
+### Top 100
+1. **Miscellaneous**: (Appeared 3 Times) (Freq: 12)
+2. **Miscellaneous**: Describe the anaesthetic management and postop management of (Freq: 6)
+3. **Miscellaneous**: Questions (Appeared 1 Time) (Freq: 6)
+4. **Miscellaneous**: congenital diaphragmatic hernia posted for repair (Freq: 5)
+5. **Respiratory System**: Hypoxic Pulmonary Vasoconstriction. (Freq: 5)
+6. **Miscellaneous**: Short Notes (Any six) (10 Marks each) (Freq: 5)
+7. **Miscellaneous**: Discuss peri operative management of neonatal with (Freq: 4)
+8. **Miscellaneous**: management for pheochromocytoma (Freq: 4)
+9. **Airway**: Supraglottic airway devices (Freq: 4)
+10. **Paediatric Anaesthesia**: a What are the anaesthetic challenges of pediatric patients. Describe we anaesthetic (Freq: 4)
+11. **Miscellaneous**: Management of Post tonsillectomy bleed (Freq: 4)
+12. **Blood & Transfusion**: All India Institute of Medical Sciences, Bhubaneswar (Freq: 4)
+13. **Blood & Transfusion**: Madhya Pradesh Medical Science University, 5 abalpu: (Freq: 4)
+14. **Miscellaneous**: in ‘Do notwrite anything on the blank portion of the question Paper= such type of act will be considered asan (Freq: 4)
+15. **Miscellaneous**: will be considered as an attempt to resort to unfair means. (Freq: 4)
+16. **Miscellaneous**: Most Repeated Short Answer Questions (Freq: 4)
+17. **Regional Anaesthesia**: Describe anatomy of brachial plexus. Enumerate (Freq: 3)
+18. **CNS & Neuroanaesthesia**: be Intraoperative Neuromuscular Monitoring. (Freq: 3)
+19. **Miscellaneous**: Describe preoperative evaluation and anaesthetic (Freq: 3)
+20. **Miscellaneous**: What are the anatomical and physiological changes of (Freq: 3)
+21. **Miscellaneous**: Discuss anesthetic management of a patient with drug (Freq: 3)
+22. **Miscellaneous**: Discuss anesthetic considerations and intra-operative (Freq: 3)
+23. **Ethics & Consent**: Anaesthesia Record keeping (Freq: 3)
+24. **Miscellaneous**: Oxygen Dissociation Curve (2025e) (Freq: 3)
+25. **Miscellaneous**: Venturi principle and its (Freq: 3)
+26. **Miscellaneous**: 4, What is low flow anaesthesia and minimal flow anaesthesia? Discuss advantages and (Freq: 3)
+27. **Miscellaneous**: Gas Equation (2020c) / Minimum Alveolar (Freq: 3)
+28. **Miscellaneous**: vasoconstriction (Freq: 3)
+29. **Miscellaneous**: organophosphorus poisoning (Freq: 3)
+30. **Renal**: Hepato renal syndrome and its anesthetic implications. (Freq: 3)
+31. **Miscellaneous**: thyroidectomy. Discuss the preoperative preparation and anaesthetic management. (+5) (Freq: 3)
+32. **Miscellaneous**: |. Long Answer Questions (Any Two) (Freq: 3)
+33. **Miscellaneous**: HW. Answers of Questions and Sub questions must be written strictly according to the serial order of (Freq: 3)
+34. **Miscellaneous**: question paper, otherwise the question shall not be valind ) (Freq: 3)
+35. **Blood & Transfusion**: HAMDARD INSTITUTE OF MEDICAL SCIENCES & RESEARCH (Freq: 3)
+36. **Miscellaneous**: ‘MD ANAESTHESIOLOGY ANNUAL EXAMINATION 2025 (BATCH 2021) (Freq: 3)
+37. **Miscellaneous**: |. Long Answer Questions (Attempt Any (Freq: 3)
+38. **Paediatric Anaesthesia**: Describe the management of a 3 year old child with (Freq: 2)
+39. **Obstetric Anaesthesia**: Describe physiological changes of pregnancy. What is (Freq: 2)
+40. **Cardiovascular System**: pregnancy induced hypertension. (Freq: 2)
+41. **Miscellaneous**: intra cranial pressure. What is the clinical presentation (Freq: 2)
+42. **CNS & Neuroanaesthesia**: management of a patient of S.O.L with raised icp for (Freq: 2)
+43. **Equipment**: What is oxygen therapy? What are the various (Freq: 2)
+44. **Respiratory System**: scheduled for thoracotomy. (Freq: 2)
+45. **Miscellaneous**: management of a patient of diabetes mellitus scheduled (Freq: 2)
+46. **Miscellaneous**: for emergency exploratory laparotomy. (Freq: 2)
+47. **Miscellaneous**: Describe the peri operative preparation and anesthetic (Freq: 2)
+48. **Miscellaneous**: laparoscopic cholecystectomy. (Freq: 2)
+49. **Miscellaneous**: Disease) for transplant or other surgery. (Freq: 2)
+50. **Miscellaneous**: Describe the anesthetic challenges in morbidly obese (Freq: 2)
+51. **Miscellaneous**: Discuss anesthetic management and post operative (Freq: 2)
+52. **Miscellaneous**: Management of Diabetic Ketoacidosis. (Freq: 2)
+53. **Miscellaneous**: aging. Describe peri operative care of frail elderly. (Freq: 2)
+54. **COVID**: anaesthetic management of a newborn baby of Covid (Freq: 2)
+55. **Miscellaneous**: foreign body aspiration posted for bronchoscopy (Freq: 2)
+56. **Paediatric Anaesthesia**: ‘Discuss the anaesthetic management of 15 months old child posted for Cleft Palate Repair. 10 (Freq: 2)
+57. **Miscellaneous**: Write about anesthetic considerations in geriatric (Freq: 2)
+58. **Miscellaneous**: patients. Discuss the anesthetic management of 80 (Freq: 2)
+59. **Paediatric Anaesthesia**: . Anaesthetic management of 2yr old child with vegetable foreign body in right (Freq: 2)
+60. **Renal**: management for a patient of chronic renal failure (Freq: 2)
+61. **Critical Care**: Discuss the recent concept of sepsis and its (Freq: 2)
+62. **Regional Anaesthesia**: What are Neuraxial blocks? Write about their clinical (Freq: 2)
+63. **COVID**: What is COVID-19? Write about its pathophysiology (Freq: 2)
+64. **COVID**: Role of steroid in COVID19 patients (Freq: 2)
+65. **Critical Care**: Discuss the management of a patient with ventricular (Freq: 2)
+66. **Hepatic**: Write precisely liver function tests. Discuss the (Freq: 2)
+67. **Pain**: Discuss the various modalities of post operative pain (Freq: 2)
+68. **Ethics & Consent**: Informed consent and its (Freq: 2)
+69. **Miscellaneous**: Safety features of (Freq: 2)
+70. **Anaesthesia Machine**: Anaesthesia machine (Freq: 2)
+71. **Miscellaneous**: high flow nasal oxygenation (Freq: 2)
+72. **Miscellaneous**: Functional Residual capacity (Freq: 2)
+73. **Pharmacology**: Concentration (MAC) (2023e) (Freq: 2)
+74. **Miscellaneous**: Bone Cement Implantation Syndrome (Freq: 2)
+75. **Miscellaneous**: Mendelson's Syndrome (2020f) / Non- (Freq: 2)
+76. **Miscellaneous**: Enhanced Recovery After Surgery (ERAS) (Freq: 2)
+77. **Miscellaneous**: Implantation Syndrome, Anaesthetic (Freq: 2)
+78. **Critical Care**: Criteria for weaning (2020 - DVT (Freq: 2)
+79. **Miscellaneous**: Monitored Anaesthesia care (Freq: 2)
+80. **Miscellaneous**: Management of thyroid storm. (Freq: 2)
+81. **Airway**: Aug-2021 Paper: Vocal cord palsies, (Freq: 2)
+82. **Regional Anaesthesia**: Local Anaesthetic Toxicity (Management (Freq: 2)
+83. **Cardiovascular System**: Implications of Cardiac Implantable (Freq: 2)
+84. **Miscellaneous**: Discharge Criteria for day care (Freq: 2)
+85. **Blood & Transfusion**: Post tonsillectomy bleeding (Freq: 2)
+86. **CNS & Neuroanaesthesia**: 2021: Neuropathic Pain, Non-opioid (Freq: 2)
+87. **Miscellaneous**: anesthesiologist (Freq: 2)
+88. **Miscellaneous**: Analgesics, Malignant Hyperthermia, (Freq: 2)
+89. **Miscellaneous**: Rapid shallow breathing (Freq: 2)
+90. **Miscellaneous**: Organ Transplanted patients for surgery, (Freq: 2)
+91. **Paediatric Anaesthesia**: Premature infants, Biomarkers, VAP (Freq: 2)
+92. **Miscellaneous**: 2022: Modified Aldrete score, Xenon, TCI (Freq: 2)
+93. **Miscellaneous**: Multiple choices questions. (5*1=5 Marks) (Freq: 2)
+94. **Miscellaneous**: MD/MS EXAMINATION (Freq: 2)
+95. **Miscellaneous**: Department Name - Anesthesiology (Freq: 2)
+96. **Miscellaneous**: Paper Code: MDAN2025 Time: 09:30AM — 12:30PM (Freq: 2)
+97. **Miscellaneous**: MCQ- Write the answers of MCQ in Answer sheet Z (Freq: 2)
+98. **Hepatic**: obstructive jaundice for Whipple’s surgery (Freq: 2)
+99. **Obstetric Anaesthesia**: Treatment of amniotic fluid Embolism. (Freq: 2)
+100. **Critical Care**: MD Anaesthesiology and Critical Care Final Examination-July/August 2025 (Freq: 2)
+
+## Topic-wise Organization
+
+### Airway
+- **Supraglottic airway devices**
+  - *Frequency*: 4
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Supraglottic airway devices
+- **Aug-2021 Paper: Vocal cord palsies,**
+  - *Frequency*: 2
+  - *Years*: 2019, 2021
+  - *Papers*: Paper 2, Paper 3
+  - *Marks*: N/A
+  - *Variations*:
+    - Aug-2021 Paper: Vocal cord palsies,
+    - Vocal cord palsies
+- **Describe the anatomy of trachea-bronchial tree.**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Describe the anatomy of trachea-bronchial tree.
+- **positive mother for trachea esophageal fistula repair.**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - positive mother for trachea esophageal fistula repair.
+- **Airway pressure release**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Airway pressure release
+- **Airway block for fibreoptic**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 3
+  - *Marks*: N/A
+  - *Variations*:
+    - Airway block for fibreoptic
+- **Management of postextubation laryngospasm**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 3
+  - *Marks*: N/A
+  - *Variations*:
+    - Management of postextubation laryngospasm
+- **‘A2 Year old child, undergoing myringotomy develops laryngospasm in the OR, the patient is**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - ‘A2 Year old child, undergoing myringotomy develops laryngospasm in the OR, the patient is
+- **Endotracheal intubation**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Endotracheal intubation
+- **Airway resistance can be measured by plethysmography**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Airway resistance can be measured by plethysmography
+- **‘The most common cause of postoperative airway obstruction is:**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - ‘The most common cause of postoperative airway obstruction is:
+- **trachea of S-year-old child.**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: 10
+  - *Variations*:
+    - trachea of S-year-old child.
+- **__9//Discus he assessment methods of dificult airway predition, Diseuss in brief the role of USG**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - __9//Discus he assessment methods of dificult airway predition, Diseuss in brief the role of USG
+- **in airway assessment.**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: 5+5
+  - *Variations*:
+    - in airway assessment.
+- **Physiological Difficult Airway.**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 3
+  - *Marks*: N/A
+  - *Variations*:
+    - Physiological Difficult Airway.
+- **c. _ Discuss the perioperative management of a neonate with trachea-oesophageal fistula.**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - c. _ Discuss the perioperative management of a neonate with trachea-oesophageal fistula.
+- **a) Management of difficult airway in a patient of Burn Contracture Neck**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper II1
+  - *Marks*: N/A
+  - *Variations*:
+    - a) Management of difficult airway in a patient of Burn Contracture Neck
+- **various bedsideairway assessme**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - various bedsideairway assessme
+- **anticipated difficult airway, et eae**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - anticipated difficult airway, et eae
+- **USG in airway management” ¢**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - USG in airway management” ¢
+- **airway [ fapor T PS Diploma eg**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - airway [ fapor T PS Diploma eg
+- **trachea-oesophageal fistula repair.**
+  - *Frequency*: 1
+  - *Years*: 2021
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - trachea-oesophageal fistula repair.
+- **Vila, Nerve Blocks in Awake Intubation,**
+  - *Frequency*: 1
+  - *Years*: 2023
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Vila, Nerve Blocks in Awake Intubation,
+- **intubation drill, POCD**
+  - *Frequency*: 1
+  - *Years*: 2022
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - intubation drill, POCD
+- **2025: USG in airway, Role of Magnesium,**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - 2025: USG in airway, Role of Magnesium,
+
+### Anaesthesia Machine
+- **Anaesthesia machine**
+  - *Frequency*: 2
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Anaesthesia machine
+- **Write a note on the evolution of anesthesia machine**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Write a note on the evolution of anesthesia machine
+- **anesthesia machine and write in detail about anti**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - anesthesia machine and write in detail about anti
+- **Mapleson’s circuits**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Mapleson’s circuits
+- **Anaesthesia machines**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Anaesthesia machines
+
+### Blood & Transfusion
+- **All India Institute of Medical Sciences, Bhubaneswar**
+  - *Frequency*: 4
+  - *Years*: 2019, 2025
+  - *Papers*: Paper 1, Paper 2, Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - ALL INDIA INSTITUTE OF MEDICAL SCIENCES, BHOPAL
+    - All India Institute of Medical Sciences, Bhubaneswar
+    - ALL INDIA INSTITUTE OF MEDICAL SCIENCES, BHOPA
+- **Madhya Pradesh Medical Science University, 5 abalpu:**
+  - *Frequency*: 4
+  - *Years*: 2025
+  - *Papers*: Paper 1, Paper 2, Paper 3
+  - *Marks*: N/A
+  - *Variations*:
+    - Madhya Pradesh Medical Science University, 5 abalpu:
+    - Madhya Pradesh Medical Science University, Jabalpur
+    - Madhya Pradesh Medical Science Universe a |
+- **HAMDARD INSTITUTE OF MEDICAL SCIENCES & RESEARCH**
+  - *Frequency*: 3
+  - *Years*: 2001, 2025
+  - *Papers*: Paper 1, Paper 2, Paper II1
+  - *Marks*: N/A
+  - *Variations*:
+    - HAMDARD INSTITUTE OF MEDICAL SCIENCES & RESEARCH
+- **Post tonsillectomy bleeding**
+  - *Frequency*: 2
+  - *Years*: 2019, 2022
+  - *Papers*: Paper 2, Paper 3
+  - *Marks*: N/A
+  - *Variations*:
+    - Post tonsillectomy bleeding
+    - tonsillectomy bleeding...
+- **in Relation to Systemic and Medical Diseases**
+  - *Frequency*: 2
+  - *Years*: 2025
+  - *Papers*: Paper 1, Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - in Relation to Systemic and Medical Diseases
+    - ASSOCIATED SYSTEMIC AND MEDICAL DISEASES:
+- **PG Degree Medical Faculty (MD/MS) Examination October-2025**
+  - *Frequency*: 2
+  - *Years*: 2025
+  - *Papers*: Paper 2, Paper 3
+  - *Marks*: N/A
+  - *Variations*:
+    - PG Degree Medical Faculty (MD/MS) Examination October-2025
+    - PG Degree Medical Faculty (MD/MS) Examination Octobere
+- **Post Graduate Degree Medical Fs ulty(MD/MS) Examination ‘January-2025**
+  - *Frequency*: 2
+  - *Years*: 2025
+  - *Papers*: Paper 1, Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Post Graduate Degree Medical Faculty(MD/Ms) Examination January-2025
+    - Post Graduate Degree Medical Fs ulty(MD/MS) Examination ‘January-2025
+- **used for its judicious use?**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - used for its judicious use?
+- **Describe the Physiology of haemostasis. How do you**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Describe the Physiology of haemostasis. How do you
+- **its indications, techniques and complications.**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - its indications, techniques and complications.
+- **the operator blood sugar levels**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - the operator blood sugar levels
+- **Autologous blood**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 3
+  - *Marks*: N/A
+  - *Variations*:
+    - Autologous blood
+- **Consumption coagulopathy**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Consumption coagulopathy
+- **itute of Medical Sciences, Bhubaneswar**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - itute of Medical Sciences, Bhubaneswar
+- **G.R.MEDICAL COLLEGE,GWALIOR (M.P.)**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - G.R.MEDICAL COLLEGE,GWALIOR (M.P.)
+- **blood, highlighting theig respective dissociation curves. Ex**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - blood, highlighting theig respective dissociation curves. Ex
+- **Enumerate the various blood components anid” products available for transfusion. Briefly**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Enumerate the various blood components anid” products available for transfusion. Briefly
+- **describe the different types of transfusion reactions, their signs and symptoms, and the initial**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - describe the different types of transfusion reactions, their signs and symptoms, and the initial
+- **management of an acute hemolytic transfusion reaction, \~**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - management of an acute hemolytic transfusion reaction, \~
+- **for emergency surgery with recent guidelines related to massive transfusion protocol.**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 3
+  - *Marks*: N/A
+  - *Variations*:
+    - for emergency surgery with recent guidelines related to massive transfusion protocol.
+- **Indications of pacemake? insertion**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 3
+  - *Marks*: N/A
+  - *Variations*:
+    - Indications of pacemake? insertion
+- **2 Ansestetic managstient ns paient wilt jundice wis iver**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - 2 Ansestetic managstient ns paient wilt jundice wis iver
+- **i pegree Medica! aculty(MD/Ms) Be sity J**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - i pegree Medica! aculty(MD/Ms) Be sity J
+- **radesh Medical Sei 7**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - radesh Medical Sei 7
+- **Post Graduate Degree Medical Faeuliyaiynase ulversity, Jabalpur**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Post Graduate Degree Medical Faeuliyaiynase ulversity, Jabalpur
+- **Judicious we | Fs I i cay) 0 Mevks**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Judicious we
+    - Fs I i cay) 0 Mevks
+- **DIC (2022f) / Anticoagulant vs**
+  - *Frequency*: 1
+  - *Years*: 2022
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - DIC (2022f) / Anticoagulant vs
+- **Anaesthesia, Management of DIC.**
+  - *Frequency*: 1
+  - *Years*: 2022
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Anaesthesia, Management of DIC.
+
+### CNS & Neuroanaesthesia
+- **be Intraoperative Neuromuscular Monitoring.**
+  - *Frequency*: 3
+  - *Years*: 2019, 2025
+  - *Papers*: Paper 1, Paper 2, Paper 3
+  - *Marks*: N/A
+  - *Variations*:
+    - neuromuscular monitoring
+    - Monitoring during
+    - be Intraoperative Neuromuscular Monitoring.
+- **management of a patient of S.O.L with raised icp for**
+  - *Frequency*: 2
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - and management of raised ICP.
+    - management of a patient of S.O.L with raised icp for
+- **2021: Neuropathic Pain, Non-opioid**
+  - *Frequency*: 2
+  - *Years*: 2019, 2021
+  - *Papers*: Paper 2, Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - 2021: Neuropathic Pain, Non-opioid
+    - Neuropathic pain
+- **following heads : Initiation /Monitoring /Various**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - following heads : Initiation /Monitoring /Various
+- **physiology of neuromuscular transmission and briefly**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - physiology of neuromuscular transmission and briefly
+- **intracranial space occupying lesion**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - intracranial space occupying lesion
+- **What are the anesthetic challenges of neuro anesthesia.**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - What are the anesthetic challenges of neuro anesthesia.
+- **Write precisely the Physiology of CSF circulation.**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Write precisely the Physiology of CSF circulation.
+- **a 6 month baby of hydrocephalus scheduled for VP**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - a 6 month baby of hydrocephalus scheduled for VP
+- **neurosurgical patient? Discuss the common post**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - neurosurgical patient? Discuss the common post
+- **operative complications after craniotomy**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - operative complications after craniotomy
+- **Intracranial Pressure**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Intracranial Pressure
+- **crcerebral autoregulation, What are tne Ways t reduce blood loss during brain tumour SS'8S"**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - crcerebral autoregulation, What are tne Ways t reduce blood loss during brain tumour SS'8S"
+- **|; What are the different modalities of neuromonitoring available to avoid neur al damage durin**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - |; What are the different modalities of neuromonitoring available to avoid neur al damage durin
+- **patient posted for MRI?**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: 5+5
+  - *Variations*:
+    - patient posted for MRI?
+- **4, -Define the eshiigu. actions and complications of Segmental spinal anaesthesia. (S45)**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - 4, -Define the eshiigu. actions and complications of Segmental spinal anaesthesia. (S45)
+- **autonomie neuropathy and its anaesthetic**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - autonomie neuropathy and its anaesthetic
+- **Mi eOSEeTEne agers Tight Brain.**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 3
+  - *Marks*: N/A
+  - *Variations*:
+    - Mi eOSEeTEne agers Tight Brain.
+- **¢ oY in les . ont’ of, Carp head**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ¢ oY in les . ont’ of, Carp head
+- **25 _ehussity neuromuscular blocking**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - 25 _ehussity neuromuscular blocking
+- **|. Preoperative preparation ws ler following headings.**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - |. Preoperative preparation ws ler following headings.
+- **he determination of brain death and clings for its**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - he determination of brain death and clings for its
+- **8: mrirao ‘Pele Boot -| 10 meng i**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - 8: mrirao ‘Pele Boot -| 10 meng i
+- **Neuromuscular/Neuroanesthesia:**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Neuromuscular/Neuroanesthesia:
+- **Anesthetic management for neurosurgical**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Anesthetic management for neurosurgical
+- **cases (craniotomy, posterior fossa**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - cases (craniotomy, posterior fossa
+- **May-2022 Paper: Neuroleptic malignant**
+  - *Frequency*: 1
+  - *Years*: 2022
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - May-2022 Paper: Neuroleptic malignant
+- **Jan-2025 Paper: Declaration for brain**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Jan-2025 Paper: Declaration for brain
+- **Neurotoxic snake bite.**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Neurotoxic snake bite.
+- **Brain Death: Criteria, clinical tests, and**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Brain Death: Criteria, clinical tests, and
+
+### COVID
+- **anaesthetic management of a newborn baby of Covid**
+  - *Frequency*: 2
+  - *Years*: 2021
+  - *Papers*: Paper 2, Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - anaesthetic management of a newborn baby of Covid
+    - management of a newborn baby... for
+- **What is COVID-19? Write about its pathophysiology**
+  - *Frequency*: 2
+  - *Years*: 2025
+  - *Papers*: Paper 2, Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - What is COVID-19? Write about its pathophysiology
+    - COVID-19: Pathophysiology, ICU
+- **Role of steroid in COVID19 patients**
+  - *Frequency*: 2
+  - *Years*: 2019
+  - *Papers*: Paper 3, Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - COVID-19 patients.
+    - Role of steroid in COVID19 patients
+- **weeks pregnant lady with positive Covid report for**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - weeks pregnant lady with positive Covid report for
+- **infection control in covid 19 positive patients**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - infection control in covid 19 positive patients
+- **intensive care management of coronavirus disease**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - intensive care management of coronavirus disease
+- **role in COVID-19**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - role in COVID-19
+- **LMWH in COVID patients**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - LMWH in COVID patients
+- **coronavirus (Covid 19)**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - coronavirus (Covid 19)
+- **of a oh. ee Bo with forte CovID aspen**
+  - *Frequency*: 1
+  - *Years*: 2018
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - of a oh. ee Bo with forte CovID aspen
+- **pregnancy & management for COVID+ve**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - pregnancy & management for COVID+ve
+- **Antiplatelet (2023g) / LMWH in Covid**
+  - *Frequency*: 1
+  - *Years*: 2023
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Antiplatelet (2023g) / LMWH in Covid
+- **Steroid in Covid 19.**
+  - *Frequency*: 1
+  - *Years*: 2021
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Steroid in Covid 19.
+- **Recommended Pharma for COVID,**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Recommended Pharma for COVID,
+
+### Cardiovascular System
+- **pregnancy induced hypertension.**
+  - *Frequency*: 2
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - induced hypertension.
+    - pregnancy induced hypertension.
+- **Implications of Cardiac Implantable**
+  - *Frequency*: 2
+  - *Years*: 2019, 2023
+  - *Papers*: Paper 2, Paper 3
+  - *Marks*: N/A
+  - *Variations*:
+    - implantable cardiac devices
+    - Implications of Cardiac Implantable
+- **arrangement of 55 years old patient with hypertension**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - arrangement of 55 years old patient with hypertension
+- **and coronary stent on beta blocker and dual anti**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - and coronary stent on beta blocker and dual anti
+- **with history of hypertension and Ischaemic heart**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - with history of hypertension and Ischaemic heart
+- **disease with coronary stents on b-blockers, dual**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - disease with coronary stents on b-blockers, dual
+- **hypertension scheduled for TURP surgery**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - hypertension scheduled for TURP surgery
+- **hypotension and tachycardia discuss the peri operative**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - hypotension and tachycardia discuss the peri operative
+- **with severe mitral stenosis. Discuss the anesthetic**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - with severe mitral stenosis. Discuss the anesthetic
+- **post operative care of a patient with mitral valve**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - post operative care of a patient with mitral valve
+- **Supine hypotension**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Supine hypotension
+- **Resuscitation (CPR)**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 3
+  - *Marks*: N/A
+  - *Variations*:
+    - Resuscitation (CPR)
+- **hypovolemic shock**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 3
+  - *Marks*: N/A
+  - *Variations*:
+    - hypovolemic shock
+- **New CPR guidelines**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - New CPR guidelines
+- **Anaphylactic shock**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Anaphylactic shock
+- **May develop hypotension if turned on her side**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - May develop hypotension if turned on her side
+- **Has an increased cardiac output,**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Has an increased cardiac output,
+- **Qculo cardiac reflex**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Qculo cardiac reflex
+- **Rise in cardiac output**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Rise in cardiac output
+- **Cardiac rhythm Management devices What is the Anaesthetic**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - Cardiac rhythm Management devices What is the Anaesthetic
+- **ra Patient with Cardiac Pacemaker. (Max Marks 20)**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - ra Patient with Cardiac Pacemaker. (Max Marks 20)
+- **Goldman Cardiac risk index**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - Goldman Cardiac risk index
+- **Oculo Cardiac reflex & Anaesthetic implication.**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - Oculo Cardiac reflex & Anaesthetic implication.
+- **a. What are the indications of permanent pacemaker. Describe the anaesthetic challenges**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - a. What are the indications of permanent pacemaker. Describe the anaesthetic challenges
+- **and management of a 70 year old patient with permanent pacemaker posted for TURP.**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - and management of a 70 year old patient with permanent pacemaker posted for TURP.
+- **Ain) CPR to Covi fovtre Babak Teper ly Diflonne. Ayano ats**
+  - *Frequency*: 1
+  - *Years*: 2001
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Ain) CPR to Covi fovtre Babak Teper ly Diflonne. Ayano ats
+- **piuss tie nae AhCUS managerient of a patient with severe Mitral Stenosis for**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper II1
+  - *Marks*: N/A
+  - *Variations*:
+    - piuss tie nae AhCUS managerient of a patient with severe Mitral Stenosis for
+- **b. Define cardiac output and it**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - b. Define cardiac output and it
+- **circulation. Explain therevised cardiac risk index &**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - circulation. Explain therevised cardiac risk index &
+- **1 ofa patient with isehemic heart disease**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - 1 ofa patient with isehemic heart disease
+- **(IHD) scheduled to undergo non cardiac surg**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - (IHD) scheduled to undergo non cardiac surg
+- **severe mitral stenosis posted for elective LSCS or oui aus scase of**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - severe mitral stenosis posted for elective LSCS or oui aus scase of
+- **Cardiac Disease Management:**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Cardiac Disease Management:
+- **mitral stenosis (for surgery or LSCS).**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - mitral stenosis (for surgery or LSCS).
+- **Geriatric patient with hypertension,**
+  - *Frequency*: 1
+  - *Years*: 2021
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Geriatric patient with hypertension,
+- **coronary stent on antiplatelets for surgery.**
+  - *Frequency*: 1
+  - *Years*: 2021
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - coronary stent on antiplatelets for surgery.
+- **part of shock pathophysiology, 2025a)**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - part of shock pathophysiology, 2025a)
+- **Shock & Sepsis: Pathophysiology (esp.**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Shock & Sepsis: Pathophysiology (esp.
+- **Septic Shock) and management guidelines**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Septic Shock) and management guidelines
+- **Cardiac Valvular Disease: Anesthetic**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Cardiac Valvular Disease: Anesthetic
+- **patients with Mitral Stenosis. (2019b,**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - patients with Mitral Stenosis. (2019b,
+
+### Critical Care
+- **Discuss the recent concept of sepsis and its**
+  - *Frequency*: 2
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Discuss the recent concept of sepsis and its
+- **Discuss the management of a patient with ventricular**
+  - *Frequency*: 2
+  - *Years*: 2019
+  - *Papers*: Paper 3, Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Management of ventricular
+    - Discuss the management of a patient with ventricular
+- **Criteria for weaning (2020 - DVT**
+  - *Frequency*: 2
+  - *Years*: 2019, 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Criteria for weaning (2020 - DVT
+    - Criteria for weaning
+- **MD Anaesthesiology and Critical Care Final Examination-July/August 2025**
+  - *Frequency*: 2
+  - *Years*: 2025
+  - *Papers*: Paper 1, Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Care Final Examination-July/August 2025
+    - MD Anaesthesiology and Critical Care Final Examination-July/August 2025
+- **strategies to improve the outcome /Weaning**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - strategies to improve the outcome /Weaning
+- **Sepsis and anaesthesiologist**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Sepsis and anaesthesiologist
+- **Weaning from mechanical**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Weaning from mechanical
+- **SOFA and qSOFA in sepsis**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - SOFA and qSOFA in sepsis
+- **Results in Supraventricular tachycardia**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Results in Supraventricular tachycardia
+- **yy and Critical Care Final Examinatio**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - yy and Critical Care Final Examinatio
+- **INTRAOPERATIVE) management plus POSTOPERATIVE ICU MANAGEMENT.**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 3
+  - *Marks*: N/A
+  - *Variations*:
+    - INTRAOPERATIVE) management plus POSTOPERATIVE ICU MANAGEMENT.
+- **Sader pattems ase eg” weaning**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Sader pattems ase eg” weaning
+- **Sepsis (2021f) / DKA (2025d)**
+  - *Frequency*: 1
+  - *Years*: 2021
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Sepsis (2021f) / DKA (2025d)
+- **Management of ventricular fibrillation**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Management of ventricular fibrillation
+- **Sepsis Scoring/Syndromes (SOFA/**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Sepsis Scoring/Syndromes (SOFA/
+- **ICU Sedation & Management (Sedation in**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ICU Sedation & Management (Sedation in
+- **ICU, CPCR guidelines) (2020a, 2021h)**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ICU, CPCR guidelines) (2020a, 2021h)
+
+### Equipment
+- **What is oxygen therapy? What are the various**
+  - *Frequency*: 2
+  - *Years*: 2019
+  - *Papers*: Paper 2, Paper 3
+  - *Marks*: N/A
+  - *Variations*:
+    - What is oxygen therapy? What are the various
+    - Oxygen therapy in COVID
+- **levels/modes of oxygen therapy and methods being**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - levels/modes of oxygen therapy and methods being
+- **Basics of Oxygen therapy**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Basics of Oxygen therapy
+- **221 Mist is Oxygen therapy? What ae the various methods ‘ofoxygentherapy? 7 10.**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - 221 Mist is Oxygen therapy? What ae the various methods ‘ofoxygentherapy? 7 10.
+- **Methods of Oxygen therapy and HFNC.**
+  - *Frequency*: 1
+  - *Years*: 2023
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Methods of Oxygen therapy and HFNC.
+
+### Ethics & Consent
+- **Anaesthesia Record keeping**
+  - *Frequency*: 3
+  - *Years*: 2019
+  - *Papers*: Paper 2, Paper 3
+  - *Marks*: N/A
+  - *Variations*:
+    - Anesthesia record keeping
+    - Anaesthesia record keeping
+    - Anaesthesia Record keeping
+- **Informed consent and its**
+  - *Frequency*: 2
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Informed consent
+    - Informed consent and its
+- **Awareness during**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Awareness during
+
+### Hepatic
+- **Write precisely liver function tests. Discuss the**
+  - *Frequency*: 2
+  - *Years*: 2019
+  - *Papers*: Paper 2, Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Write precisely liver function tests. Discuss the
+    - Liver function tests
+- **obstructive jaundice for Whipple’s surgery**
+  - *Frequency*: 2
+  - *Years*: 2022, 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - obstructive jaundice for Whipple’s surgery
+    - Obstructive Jaundice for Whipple's
+- **A Patient with Chronic Liver disease is posted for liver Transplant. Discuss in detail**
+  - *Frequency*: 2
+  - *Years*: 2025
+  - *Papers*: Paper 2, Paper 3
+  - *Marks*: N/A
+  - *Variations*:
+    - A Patient with Chronic Liver disease is posted for liver Transplant. Discuss in detail
+    - Liver disease is posted for Liver
+- **May-2022: Q2. Anaesthesia for Liver**
+  - *Frequency*: 2
+  - *Years*: 2022
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - May-2022: Q2. Anaesthesia for Liver
+    - May-2022: Q2. Anaesthetic
+- **induced impairment of liver function posted for LSCS.**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - induced impairment of liver function posted for LSCS.
+- **management of a patient of obstructive jaundice posted**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - management of a patient of obstructive jaundice posted
+- **various anesthesia techniques for caesarean delivery**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - various anesthesia techniques for caesarean delivery
+- **anesthetic management of liver transplantation.**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - anesthetic management of liver transplantation.
+- **prevent the delivery of**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - prevent the delivery of
+- **Trans dermal drug delivery**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Trans dermal drug delivery
+- **Anesthesia for liver**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 3
+  - *Marks*: N/A
+  - *Variations*:
+    - Anesthesia for liver
+- **numerate the oxygen fail safe. devices in Anesthesia delivery systems**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - numerate the oxygen fail safe. devices in Anesthesia delivery systems
+- **Liver Disease: Anesthetic management of**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Liver Disease: Anesthetic management of
+- **a patient with chronic/impaired liver**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - a patient with chronic/impaired liver
+- **affecting liver blood flow, 2025a)**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - affecting liver blood flow, 2025a)
+- **Transdermal drug delivery (2021b)**
+  - *Frequency*: 1
+  - *Years*: 2021
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Transdermal drug delivery (2021b)
+
+### Miscellaneous
+- **(Appeared 3 Times)**
+  - *Frequency*: 12
+  - *Years*: 2019, 2020, 2021, 2023, 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - (Appeared 2 Times)
+    - (Appeared 3 Times)
+    - Appeared 3 Times:
+    - Appeared 2 Times:
+- **Describe the anaesthetic management and postop management of**
+  - *Frequency*: 6
+  - *Years*: 2019, 2022, 2023, 2025
+  - *Papers*: Paper 2, Paper 3
+  - *Marks*: N/A
+  - *Variations*:
+    - Devices, Anaesthetic Management of
+    - Anaesthetic management for Liver
+    - Describe the anaesthetic management and postop management of
+    - Anaesthetic management of
+    - Anaesthetic Management of Post-
+- **Questions (Appeared 1 Time)**
+  - *Frequency*: 6
+  - *Years*: 2019, 2022, 2023, 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Appeared 1 Time:
+    - Questions (Appeared 1 Time)
+- **congenital diaphragmatic hernia posted for repair**
+  - *Frequency*: 5
+  - *Years*: 2023
+  - *Papers*: Paper 2, Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - congenital diaphragmatic hernia.
+    - Congenital Diaphragmatic Hernia in a
+    - congenital diaphragmatic hernia
+    - congenital diaphragmatic hernia posted for repair
+    - neonate with congenital diaphragmatic hernia
+- **Short Notes (Any six) (10 Marks each)**
+  - *Frequency*: 5
+  - *Years*: 2025
+  - *Papers*: Paper 1, Paper 2, Paper 4, Paper II1
+  - *Marks*: N/A
+  - *Variations*:
+    - ‘Write short notes on—
+    - ‘ite short notes on (4*5=20 Marks)
+    - Write short notes on (4*5=20 Marks)
+    - Write short notes on x
+    - Short Notes (Any six) (10 Marks each)
+- **Discuss peri operative management of neonatal with**
+  - *Frequency*: 4
+  - *Years*: N/A
+  - *Papers*: Paper 2, Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Discuss peri operative management of neonate with
+    - Discuss anesthetic management and peri operative
+    - Discuss peri operative management of neonatal with
+    - Discuss management of peri operative pulmonary
+- **management for pheochromocytoma**
+  - *Frequency*: 4
+  - *Years*: 2019, 2020, 2025
+  - *Papers*: Paper 2, Paper 3
+  - *Marks*: N/A
+  - *Variations*:
+    - Pheochromocytoma
+    - management for pheochromocytoma
+    - Management of Pheochromocytoma.
+    - pheochromocytoma surgery
+- **Management of Post tonsillectomy bleed**
+  - *Frequency*: 4
+  - *Years*: 2019, 2021, 2023, 2025
+  - *Papers*: Paper 2, Paper 3, Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Management of Post tonsillectomy bleed
+    - post tonsillectomy bleed
+    - Post tonsillectomy bleed
+    - tonsillectomy Bleed
+- **in ‘Do notwrite anything on the blank portion of the question Paper= such type of act will be considered asan**
+  - *Frequency*: 4
+  - *Years*: 2025
+  - *Papers*: Paper 1, Paper 2, Paper 3
+  - *Marks*: N/A
+  - *Variations*:
+    - in ‘Do notwrite anything on the blank portion of the question Paper= such type of act will be considered asan
+    - Do not write anything on the blank portion of the question paper- such type of act will be considered asan
+    - Do not write anything on the blank portion of the question paper. If written anything, such type of act
+    - Do not write anything on the blank portion of the question paper: such type of act willbe considered. asan
+- **will be considered as an attempt to resort to unfair means.**
+  - *Frequency*: 4
+  - *Years*: 2025
+  - *Papers*: Paper 1, Paper 2, Paper 3
+  - *Marks*: N/A
+  - *Variations*:
+    - will be considered as an attempt to resort to unfair means.
+    - attempt to resort to unfair means. N
+    - attempt to resort to unfair means.
+- **Most Repeated Short Answer Questions**
+  - *Frequency*: 4
+  - *Years*: 2023, 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Repeated Long Answer Questions
+    - Most Repeated Short Answer Questions
+    - Repeated Short Answer Questions
+    - Most Repeated Long Answer Questions
+- **Describe preoperative evaluation and anaesthetic**
+  - *Frequency*: 3
+  - *Years*: N/A
+  - *Papers*: Paper 2, Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Describe preoperative preparation evaluation and
+    - Describe preoperative evaluation and anaesthetic
+- **What are the anatomical and physiological changes of**
+  - *Frequency*: 3
+  - *Years*: 2020
+  - *Papers*: Paper 2, Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Describe anatomical and physiological changes opf
+    - What are the anatomical and physiological changes of
+    - Anatomical & physiological changes in
+- **Discuss anesthetic management of a patient with drug**
+  - *Frequency*: 3
+  - *Years*: 2019
+  - *Papers*: Paper 2, Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Anesthetic management of a patient with
+    - Describe anesthetic management of a patient with
+    - Discuss anesthetic management of a patient with drug
+- **Discuss anesthetic considerations and intra-operative**
+  - *Frequency*: 3
+  - *Years*: 2023
+  - *Papers*: Paper 2, Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Discuss anesthetic considerations and intra-operative
+    - Anesthetic considerations for
+    - Discuss anesthetic considerations and perioperative
+- **Oxygen Dissociation Curve (2025e)**
+  - *Frequency*: 3
+  - *Years*: 2019, 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Oxygen Dissociation Curve
+    - Oxygen Dissociation Curve (2025e)
+    - Oxygen Dissociation Curve”
+- **Venturi principle and its**
+  - *Frequency*: 3
+  - *Years*: 2019
+  - *Papers*: Paper 2, Paper 3
+  - *Marks*: N/A
+  - *Variations*:
+    - Venturi Principle
+    - Venturi principle
+    - Venturi principle and its
+- **4, What is low flow anaesthesia and minimal flow anaesthesia? Discuss advantages and**
+  - *Frequency*: 3
+  - *Years*: 2019, 2021, 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Low flow Anaesthesia
+    - 4, What is low flow anaesthesia and minimal flow anaesthesia? Discuss advantages and
+    - Low Flow Anaesthesia (2021e) / Alveolar
+- **Gas Equation (2020c) / Minimum Alveolar**
+  - *Frequency*: 3
+  - *Years*: 2019, 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Alveolar gas equation
+    - Gas Equation (2020c) / Minimum Alveolar
+- **vasoconstriction**
+  - *Frequency*: 3
+  - *Years*: 2019
+  - *Papers*: Paper 2, Paper 3
+  - *Marks*: N/A
+  - *Variations*:
+    - vasoconstriction
+- **organophosphorus poisoning**
+  - *Frequency*: 3
+  - *Years*: 2019, 2020
+  - *Papers*: Paper 2, Paper 3, Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - organophosphorus poisoning
+    - Organophosphorus poisoning
+- **thyroidectomy. Discuss the preoperative preparation and anaesthetic management. (+5)**
+  - *Frequency*: 3
+  - *Years*: 2025
+  - *Papers*: Paper 1, Paper 2, Paper 3
+  - *Marks*: N/A
+  - *Variations*:
+    - Describe the preoperative preparation and Anaesthetic
+    - the Anaesthetic considerations (PREOPERATIVE PREPARATION AND
+    - thyroidectomy. Discuss the preoperative preparation and anaesthetic management. (+5)
+- **|. Long Answer Questions (Any Two)**
+  - *Frequency*: 3
+  - *Years*: 2019, 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - |. Long Answer Questions (Any Two)
+    - = Answer all the questions.
+    - © Answer all the questions.
+- **HW. Answers of Questions and Sub questions must be written strictly according to the serial order of**
+  - *Frequency*: 3
+  - *Years*: 2025
+  - *Papers*: Paper 2, Paper 3
+  - *Marks*: N/A
+  - *Variations*:
+    - 1% nsmers Of Questions and Sub questions must be written strictly according tothe setal order of
+    - HW. Answers of Questions and Sub questions must be written strictly according to the serial order of
+    - Answers of Questions and Sub questions must be written strictly according to the serial order of
+- **question paper, otherwise the question shall not be valind )**
+  - *Frequency*: 3
+  - *Years*: 2025
+  - *Papers*: Paper 2, Paper 3
+  - *Marks*: N/A
+  - *Variations*:
+    - question paper, otherwise the question shall not be valind )
+    - question paper, otherwise the question shall not be valued
+- **‘MD ANAESTHESIOLOGY ANNUAL EXAMINATION 2025 (BATCH 2021)**
+  - *Frequency*: 3
+  - *Years*: 2025
+  - *Papers*: Paper 1, Paper 2, Paper II1
+  - *Marks*: N/A
+  - *Variations*:
+    - ‘MD ANAESTHESIOLOGY ANNUAL EXAMINATION 2025 (BATCH 2021)
+    - MD ANAESTHESIOLOGY ANNUAL EXAMINATION 2025 (BATCH 2021)
+    - ANNUAL EXAMINATION 2025 (Batch 2021)
+- **|. Long Answer Questions (Attempt Any**
+  - *Frequency*: 3
+  - *Years*: 2025
+  - *Papers*: Paper 1, Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - + Attempt all questions Z
+    - ‘© Attempt all questions
+    - |. Long Answer Questions (Attempt Any
+- **intra cranial pressure. What is the clinical presentation**
+  - *Frequency*: 2
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - intra cranial pressure
+    - intra cranial pressure. What is the clinical presentation
+- **management of a patient of diabetes mellitus scheduled**
+  - *Frequency*: 2
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - management of a patient of diabetes mellitus scheduled
+    - management of a patient scheduled for
+- **for emergency exploratory laparotomy.**
+  - *Frequency*: 2
+  - *Years*: N/A
+  - *Papers*: Paper 2, Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - posted for emergency laparotomy
+    - for emergency exploratory laparotomy.
+- **Describe the peri operative preparation and anesthetic**
+  - *Frequency*: 2
+  - *Years*: N/A
+  - *Papers*: Paper 2, Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Describe the peri operative preparation and anesthetic
+    - Discuss the peri operative preparation and anaesthetic
+- **laparoscopic cholecystectomy.**
+  - *Frequency*: 2
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: 10
+  - *Variations*:
+    - laparoscopic cholecystectomy.
+    - cholecystectomy.
+- **Disease) for transplant or other surgery.**
+  - *Frequency*: 2
+  - *Years*: 2021
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Disease) for transplant or other surgery.
+    - transplant surgery.
+- **Describe the anesthetic challenges in morbidly obese**
+  - *Frequency*: 2
+  - *Years*: N/A
+  - *Papers*: Paper 2, Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Describe the anesthetic challenges in morbidly obese
+    - Discuss anesthetic considerations in morbidly obese
+- **Discuss anesthetic management and post operative**
+  - *Frequency*: 2
+  - *Years*: 2025
+  - *Papers*: Paper 2, Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - 3, Post operative management © f
+    - Discuss anesthetic management and post operative
+- **Management of Diabetic Ketoacidosis.**
+  - *Frequency*: 2
+  - *Years*: 2020
+  - *Papers*: Paper 2, Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Management of Diabetic Ketoacidosis.
+    - diabetic ketoacidosis.
+- **aging. Describe peri operative care of frail elderly.**
+  - *Frequency*: 2
+  - *Years*: 2021
+  - *Papers*: Paper 2, Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - care of Frail Elderly.
+    - aging. Describe peri operative care of frail elderly.
+- **foreign body aspiration posted for bronchoscopy**
+  - *Frequency*: 2
+  - *Years*: 2023
+  - *Papers*: Paper 2, Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Foreign Body Aspiration in a child
+    - foreign body aspiration posted for bronchoscopy
+- **Write about anesthetic considerations in geriatric**
+  - *Frequency*: 2
+  - *Years*: 2025
+  - *Papers*: Paper 2, Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Write about anesthetic considerations in geriatric
+    - Anaesthetic considerations in Geriatric /
+- **patients. Discuss the anesthetic management of 80**
+  - *Frequency*: 2
+  - *Years*: 2021
+  - *Papers*: Paper 2, Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Anesthetic management for patients with
+    - patients. Discuss the anesthetic management of 80
+- **Safety features of**
+  - *Frequency*: 2
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Safety features of
+- **high flow nasal oxygenation**
+  - *Frequency*: 2
+  - *Years*: 2019
+  - *Papers*: Paper 2, Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - High flow nasal Cannula
+    - high flow nasal oxygenation
+- **Functional Residual capacity**
+  - *Frequency*: 2
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Function Residual capacity
+    - Functional Residual capacity
+- **Bone Cement Implantation Syndrome**
+  - *Frequency*: 2
+  - *Years*: 2019, 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Bone cement implantation
+    - Bone Cement Implantation Syndrome
+- **Mendelson's Syndrome (2020f) / Non-**
+  - *Frequency*: 2
+  - *Years*: 2019, 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - (Mendelsons Syndrome)
+    - Mendelson's Syndrome (2020f) / Non-
+- **Enhanced Recovery After Surgery (ERAS)**
+  - *Frequency*: 2
+  - *Years*: 2019, 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Enhanced Recovery After Surgery (ERAS)
+    - Enhanced recovery after
+- **Implantation Syndrome, Anaesthetic**
+  - *Frequency*: 2
+  - *Years*: 2019, 2023
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Implantation Syndrome, Anaesthetic
+    - implantation syndrome)
+- **Monitored Anaesthesia care**
+  - *Frequency*: 2
+  - *Years*: 2019
+  - *Papers*: Paper 2, Paper 3
+  - *Marks*: N/A
+  - *Variations*:
+    - Monitored Anaesthesia care
+- **Management of thyroid storm.**
+  - *Frequency*: 2
+  - *Years*: 2019, 2025
+  - *Papers*: Paper 1, Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Management of thyroid
+    - Management of thyroid storm.
+- **Discharge Criteria for day care**
+  - *Frequency*: 2
+  - *Years*: 2019, 2022
+  - *Papers*: Paper 2, Paper 3
+  - *Marks*: N/A
+  - *Variations*:
+    - Discharge Criteria for day care
+    - Discharge criteria for day
+- **anesthesiologist**
+  - *Frequency*: 2
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - anesthesiologist
+- **Analgesics, Malignant Hyperthermia,**
+  - *Frequency*: 2
+  - *Years*: 2019, 2021
+  - *Papers*: Paper 2, Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - malignant hyperthermia
+    - Analgesics, Malignant Hyperthermia,
+- **Rapid shallow breathing**
+  - *Frequency*: 2
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Rapid shallow breathing
+- **Organ Transplanted patients for surgery,**
+  - *Frequency*: 2
+  - *Years*: 2019
+  - *Papers*: Paper 2, Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - organ transplanted patients
+    - Organ Transplanted patients for surgery,
+- **2022: Modified Aldrete score, Xenon, TCI**
+  - *Frequency*: 2
+  - *Years*: 2019, 2022
+  - *Papers*: Paper 2, Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Modified Aldrete score and
+    - 2022: Modified Aldrete score, Xenon, TCI
+- **Multiple choices questions. (5*1=5 Marks)**
+  - *Frequency*: 2
+  - *Years*: 2019, 2025
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Multiple choices questions. (5*1=5 Marks)
+    - Multiple choices questions. (5*
+- **MD/MS EXAMINATION**
+  - *Frequency*: 2
+  - *Years*: 2019, 2025
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - MD/MS EXAMINATION
+- **Department Name - Anesthesiology**
+  - *Frequency*: 2
+  - *Years*: 2025
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Department Name: Anesthesiology
+    - Department Name - Anesthesiology
+- **Paper Code: MDAN2025 Time: 09:30AM — 12:30PM**
+  - *Frequency*: 2
+  - *Years*: 2025
+  - *Papers*: Paper 2, Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Paper Code: MDAN3025 Time: 09:30AM — 12:30PM
+    - Paper Code: MDAN2025 Time: 09:30AM — 12:30PM
+- **MCQ- Write the answers of MCQ in Answer sheet Z**
+  - *Frequency*: 2
+  - *Years*: 2025
+  - *Papers*: Paper 2, Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - MCQ- Write the answers of MCQ in Answer sheet
+    - MCQ- Write the answers of MCQ in Answer sheet Z
+- **Time: 3 Hrs Max. Marks: 100**
+  - *Frequency*: 2
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Time: 3 Hrs Max. Marks: 100
+    - Hrs Max. Marks: 100
+- **1 Draw diagrams wherever necessary**
+  - *Frequency*: 2
+  - *Years*: 2025
+  - *Papers*: Paper 1, Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - = Draw diagram wherever necessary
+    - 1 Draw diagrams wherever necessary
+- **P Subject. Anaesthesiology**
+  - *Frequency*: 2
+  - *Years*: 2025
+  - *Papers*: Paper 2, Paper 3
+  - *Marks*: N/A
+  - *Variations*:
+    - P Subject. Anaesthesiology
+    - Subject- Anaesthesiology
+- **Time : 3.00 Hours Maximum Marks : 100**
+  - *Frequency*: 2
+  - *Years*: 2025
+  - *Papers*: Paper 1, Paper 3
+  - *Marks*: N/A
+  - *Variations*:
+    - Time : 3.00 Hours Maximum Marks : 100
+- **Qi Long Answer Question(Attempt Any Two) 2X20=40**
+  - *Frequency*: 2
+  - *Years*: 2025
+  - *Papers*: Paper 1, Paper 3
+  - *Marks*: N/A
+  - *Variations*:
+    - Qi Long Answer Question(Attempt Any Two) 2X20=40
+    - Ql Long Answer Question(Attempt Any Two) 2X20=40
+- **ANAESTHESIOLOGY IN RELATION TO.**
+  - *Frequency*: 2
+  - *Years*: 2025
+  - *Papers*: Paper 1, Paper II1
+  - *Marks*: N/A
+  - *Variations*:
+    - ANAESTHESIOLOGY IN RELATION TO
+    - ANAESTHESIOLOGY IN RELATION TO.
+- **+ Mlustrate your answer with suitable diagrams**
+  - *Frequency*: 2
+  - *Years*: 2025
+  - *Papers*: Paper 1, Paper II1
+  - *Marks*: N/A
+  - *Variations*:
+    - + Mlustrate your answer with suitable diagrams
+    - ‘© Mustrate your answer with suitable diagrams
+- **Cryoprecipitate therapy (2025b)**
+  - *Frequency*: 2
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Cryoprecipitate therapy (2025b)
+    - Cryoprecipitate therapy. S
+- **Management of PND 2 baby with tracheo esophageal fistula '] posted for**
+  - *Frequency*: 2
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Management of PND 2 baby with tracheo esophageal fistula '] posted for
+    - management of PND 2 baby with tracheo
+- **Il. Short Answer Questions (Attempt Any**
+  - *Frequency*: 2
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Il. Short Answer Questions (Attempt Any
+    - Il. Short Answer Questions (Any Six)
+- **esophageal fistula.**
+  - *Frequency*: 2
+  - *Years*: 2022, 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - esophageal fistula.
+- **Single-Appearance Short Answer**
+  - *Frequency*: 2
+  - *Years*: 2022, 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Single-Appearance Long Answer
+    - Single-Appearance Short Answer
+- **May-2022: Q2. Acute thyroid crisis:**
+  - *Frequency*: 2
+  - *Years*: 2022, 2023
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Jun-2023: Q2. Thyroid Crisis.
+    - May-2022: Q2. Acute thyroid crisis:
+- **Describe in brief the Physiology and importance of**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Describe in brief the Physiology and importance of
+- **An elderly overweight patient, who had undergone**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - An elderly overweight patient, who had undergone
+- **also received morphine sulphate (6 mg). She was**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - also received morphine sulphate (6 mg). She was
+- **reversed with empirical dose of Cholinesterase**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - reversed with empirical dose of Cholinesterase
+- **inhibitor, although breathing normally on arrival in**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - inhibitor, although breathing normally on arrival in
+- **further how the case could be managed?**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - further how the case could be managed?
+- **What are the basic ventilatory modes? Write about the**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - What are the basic ventilatory modes? Write about the
+- **describe the mechanism of action of non-depolarising**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - describe the mechanism of action of non-depolarising
+- **evaluate hemorrhagic diathesis? What precautions will**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - evaluate hemorrhagic diathesis? What precautions will
+- **you take before surgery?**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - you take before surgery?
+- **and the various steps to prevent and minimize them.**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - and the various steps to prevent and minimize them.
+- **the recent trends.**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - the recent trends.
+- **Discuss the anesthetic management of a 35 years adult**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Discuss the anesthetic management of a 35 years adult
+- **from Boyle's apparatus to modern anesthesia**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - from Boyle's apparatus to modern anesthesia
+- **workstation. Enumerate various safety features of**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - workstation. Enumerate various safety features of
+- **hypoxic devices.**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - hypoxic devices.
+- **etiology pathogenesis and pathological alteration in**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - etiology pathogenesis and pathological alteration in
+- **Describe autonomic nervous system with its clinical**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Describe autonomic nervous system with its clinical
+- **Describe nephron with the help of labelled diagram and**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Describe nephron with the help of labelled diagram and
+- **Physiology of GFR and discuss the nephrotoxic factors**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Physiology of GFR and discuss the nephrotoxic factors
+- **and insults in peri operative.**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - and insults in peri operative.
+- **Describe anatomy of IJV and write method of**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Describe anatomy of IJV and write method of
+- **Describe anaesthetic management of a case of**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Describe anaesthetic management of a case of
+- **Discuss preoperative preparations and anaesthetic**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Discuss preoperative preparations and anaesthetic
+- **platelet drugs to be taken for laparoscopic**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - platelet drugs to be taken for laparoscopic
+- **Describe Peri operative evaluation of a patient with**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Describe Peri operative evaluation of a patient with
+- **diabetes mellitus scheduled for major abdominal**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - diabetes mellitus scheduled for major abdominal
+- **surgery. briefly describe the methods of maintaining in**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - surgery. briefly describe the methods of maintaining in
+- **Discuss the anesthetic challenges in a 55 years patient**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Discuss the anesthetic challenges in a 55 years patient
+- **antiplatelet drugs and statin.**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - antiplatelet drugs and statin.
+- **pre anesthetic assessment of a patient. Describe**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - pre anesthetic assessment of a patient. Describe
+- **management of a patient .**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - management of a patient .
+- **patient posted for laparoscopy cholecystectomy**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - patient posted for laparoscopy cholecystectomy
+- **Discuss problems and anaesthesia management of**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Discuss problems and anaesthesia management of
+- **Discuss problem and anesthesia management of 75**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Discuss problem and anesthesia management of 75
+- **year old man with history of diabetes mellitus and**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - year old man with history of diabetes mellitus and
+- **Discuss problems, preparation and anesthesia**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Discuss problems, preparation and anesthesia
+- **Discuss the systemic changes which occur in old age.**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Discuss the systemic changes which occur in old age.
+- **Discuss preoperative assessment and anesthetic**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Discuss preoperative assessment and anesthetic
+- **for emergency abdominal surgery**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - for emergency abdominal surgery
+- **Define diabetes mellitus. Classify it. What is**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Define diabetes mellitus. Classify it. What is
+- **importance of HBA1C. Describe the management of**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - importance of HBA1C. Describe the management of
+- **A 25 year old gravida 3, para 2 is admitted in her 34th**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - A 25 year old gravida 3, para 2 is admitted in her 34th
+- **management of this patient posted for emergency**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - management of this patient posted for emergency
+- **Describe the anesthetic challenges and management of**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Describe the anesthetic challenges and management of
+- **disease with low ejection fraction scheduled for**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - disease with low ejection fraction scheduled for
+- **inguinal hernia surgery**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - inguinal hernia surgery
+- **patients. Discuss the anesthetic management of a 180**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - patients. Discuss the anesthetic management of a 180
+- **kg patient scheduled for bariatric surgery**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - kg patient scheduled for bariatric surgery
+- **What are the basic principles of management of a**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - What are the basic principles of management of a
+- **Describe preoperative evaluation preparation and peri**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Describe preoperative evaluation preparation and peri
+- **operative management of hyperthyroid patient posted**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - operative management of hyperthyroid patient posted
+- **for subtotal thyroidectomy**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - for subtotal thyroidectomy
+- **anesthesia management of a 80 year old hypertensive**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - anesthesia management of a 80 year old hypertensive
+- **scheduled for emergency surgery.**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - scheduled for emergency surgery.
+- **considerations and complications.**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - considerations and complications.
+- **What is ERAS? What are the peri operative measures**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - What is ERAS? What are the peri operative measures
+- **taken to achieve it**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - taken to achieve it
+- **and also describe a treatment plan and management of**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - and also describe a treatment plan and management of
+- **fibrillation. Discuss the changes in the latest AHA**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - fibrillation. Discuss the changes in the latest AHA
+- **guidelines from the previous AHA guidelines.**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - guidelines from the previous AHA guidelines.
+- **Describe the clinical presentation management and**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Describe the clinical presentation management and
+- **anaesthetic management of a patient of diabetic**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - anaesthetic management of a patient of diabetic
+- **ketoacidosis posted for surgical debridement.**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - ketoacidosis posted for surgical debridement.
+- **Briefly discuss the latest recommendation on**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Briefly discuss the latest recommendation on
+- **Describe the anesthetic considerations in a patient**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Describe the anesthetic considerations in a patient
+- **management including preoperative preparation and**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - management including preoperative preparation and
+- **replacement (5 years back) on oral anticoagulants**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - replacement (5 years back) on oral anticoagulants
+- **scheduled for hip surgery.**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - scheduled for hip surgery.
+- **What is the differential diagnosis? Discuss evidence**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - What is the differential diagnosis? Discuss evidence
+- **based strategy for ventilatory management of a**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - based strategy for ventilatory management of a
+- **Describe the pathophysiology underlying post**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Describe the pathophysiology underlying post
+- **inhibition of peripheral and central sensitization.**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - inhibition of peripheral and central sensitization.
+- **distress syndrome. Describe its management with**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - distress syndrome. Describe its management with
+- **special emphasis on evidence based guidelines.**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - special emphasis on evidence based guidelines.
+- **management. What is the peri operative analysis**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - management. What is the peri operative analysis
+- **Discuss the principles of management of a patient**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Discuss the principles of management of a patient
+- **the importance of golden hour and rapid intervention.**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - the importance of golden hour and rapid intervention.
+- **ASA Physical status**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ASA Physical status
+- **Standard Anaesthesia**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Standard Anaesthesia
+- **Corticosteroids and their**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Corticosteroids and their
+- **HFOT (High Flow O2**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - HFOT (High Flow O2
+- **The compliance and**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - The compliance and
+- **resistance loops**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - resistance loops
+- **Heat Moisture Exchanger**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Heat Moisture Exchanger
+- **Mixed Venous Oxygen**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Mixed Venous Oxygen
+- **Safety mechanisms to**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Safety mechanisms to
+- **hypoxic mixture in**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - hypoxic mixture in
+- **and its anesthetic**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - and its anesthetic
+- **Minimal alveolar**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Minimal alveolar
+- **application in anesthesia**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - application in anesthesia
+- **Acid aspiration Syndrome**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Acid aspiration Syndrome
+- **Methods of reducing**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Methods of reducing
+- **BCIS (bone cement**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - BCIS (bone cement
+- **Mendelson syndrome**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Mendelson syndrome
+- **Peri-operative fluid therapy**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Peri-operative fluid therapy
+- **Anaesthetic managent of**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Anaesthetic managent of
+- **obstructive sleep Apnea**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - obstructive sleep Apnea
+- **Measures to reduce raised**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Measures to reduce raised
+- **Mallampati Classification**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 3
+  - *Marks*: N/A
+  - *Variations*:
+    - Mallampati Classification
+- **Post operative delirium**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 3
+  - *Marks*: N/A
+  - *Variations*:
+    - Post operative delirium
+- **patients on chronic steroid**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 3
+  - *Marks*: N/A
+  - *Variations*:
+    - patients on chronic steroid
+- **Methods of identifying**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 3
+  - *Marks*: N/A
+  - *Variations*:
+    - Methods of identifying
+- **Recombinant factor VII,**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 3
+  - *Marks*: N/A
+  - *Variations*:
+    - Recombinant factor VII,
+- **Post Dural puncture**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 3
+  - *Marks*: N/A
+  - *Variations*:
+    - Post Dural puncture
+- **Metabolic acidosis**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 3
+  - *Marks*: N/A
+  - *Variations*:
+    - Metabolic acidosis
+- **Co-axial Anaesthesia system**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 3
+  - *Marks*: N/A
+  - *Variations*:
+    - Co-axial Anaesthesia system
+- **Anesthetic implications of**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 3
+  - *Marks*: N/A
+  - *Variations*:
+    - Anesthetic implications of
+- **Delayed recovery**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 3
+  - *Marks*: N/A
+  - *Variations*:
+    - Delayed recovery
+- **tachycardia during**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 3
+  - *Marks*: N/A
+  - *Variations*:
+    - tachycardia during
+- **Role of ultrasonography in**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 3
+  - *Marks*: N/A
+  - *Variations*:
+    - Role of ultrasonography in
+- **anesthesia practice**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 3
+  - *Marks*: N/A
+  - *Variations*:
+    - anesthesia practice
+- **Preoperative consideration**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 3
+  - *Marks*: N/A
+  - *Variations*:
+    - Preoperative consideration
+- **of the patient….. therapy**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 3
+  - *Marks*: N/A
+  - *Variations*:
+    - of the patient….. therapy
+- **Acute chest syndrome**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 3
+  - *Marks*: N/A
+  - *Variations*:
+    - Acute chest syndrome
+- **Perioperative anaphylaxis**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Perioperative anaphylaxis
+- **Antiplatelets and**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Antiplatelets and
+- **non opioid analgesics**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - non opioid analgesics
+- **CPCR latest guidelines**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - CPCR latest guidelines
+- **Pre oxygenation its benefits**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Pre oxygenation its benefits
+- **and potential risks**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - and potential risks
+- **Management of local**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Management of local
+- **anesthetic toxicity**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - anesthetic toxicity
+- **for incidental surgery**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - for incidental surgery
+- **biomarkers in anesthesia**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - biomarkers in anesthesia
+- **ventilator associated**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - ventilator associated
+- **Recombinant clotting factor**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Recombinant clotting factor
+- **Day care anesthesia**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Day care anesthesia
+- **Utility of peripheral nerve**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Utility of peripheral nerve
+- **WHO step ladder approach**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - WHO step ladder approach
+- **breathing spontaneously with facemask at a Fi02 0.6. Next step in management would be**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - breathing spontaneously with facemask at a Fi02 0.6. Next step in management would be
+- **Apply CPAP with 100% Oxygen +**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Apply CPAP with 100% Oxygen +
+- **IM suecinyleholine**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - IM suecinyleholine
+- **Torsades de points :**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Torsades de points :
+- **Is corrected by the administration of Magnesium**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Is corrected by the administration of Magnesium
+- **Causes bradycardia in patients**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Causes bradycardia in patients
+- **Isa result of hyperkalemia ~**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Isa result of hyperkalemia ~
+- **Which of the following is NOT associated with oxytocin administration:**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Which of the following is NOT associated with oxytocin administration:
+- **Myocardial ischemia**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Myocardial ischemia
+- **All of the following drugs readily cross the placenta EXCEP:**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - All of the following drugs readily cross the placenta EXCEP:
+- **A pregnant mother at term:**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - A pregnant mother at term:
+- **Has increased gastric tone**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Has increased gastric tone
+- **Has increased vital capacity**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Has increased vital capacity
+- **July— 2025 (REGULAR)**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - July— 2025 (REGULAR)
+- **Maximum Marks: 75 je: 16/07/2025**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Maximum Marks: 75 je: 16/07/2025
+- **‘Answer questions in the given sequence**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - ‘Answer questions in the given sequence
+- **Essay type questions (5*10=50Marks)**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Essay type questions (5*10=50Marks)
+- **Discuss evaluation and management of two day old baby for tracheoesophageal fistula**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Discuss evaluation and management of two day old baby for tracheoesophageal fistula
+- **Management of 28 year old female with 38wecks of gestation with severe**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Management of 28 year old female with 38wecks of gestation with severe
+- **Discuss preoperative optimization in a 40 year old male prior to surgery for removal of**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Discuss preoperative optimization in a 40 year old male prior to surgery for removal of
+- **Phaeochromocytoma tumour**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Phaeochromocytoma tumour
+- **ig one Jung ventil crip e**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - ig one Jung ventil crip e
+- **Anesthesia for modified ECT**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Anesthesia for modified ECT
+- **Peak flow can be determined from a pneumotachograph**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Peak flow can be determined from a pneumotachograph
+- **FEVI/FVC increases with obstructive disease**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - FEVI/FVC increases with obstructive disease
+- **Loss of pharyngeal tone in a sedated patient**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Loss of pharyngeal tone in a sedated patient
+- **Weak diaphragmatic contraction**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Weak diaphragmatic contraction
+- **Redundant pharyngeal tissue**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Redundant pharyngeal tissue
+- **Recognised effects of PEEP include:**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Recognised effects of PEEP include:
+- **Decreases atelectasis**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Decreases atelectasis
+- **Rise in closing volume**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Rise in closing volume
+- **Best method to prevent shivering is:**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Best method to prevent shivering is:
+- **Use of warmed fluids**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Use of warmed fluids
+- **Forced air warming devices**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Forced air warming devices
+- **Which of the following is associated with a lower incidence of PONV**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Which of the following is associated with a lower incidence of PONV
+- **July— 2025(REGULAR)**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - July— 2025(REGULAR)
+- **Maximum Marks: 75 Date: 18/07/2025**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Maximum Marks: 75 Date: 18/07/2025
+- **Essay type questions (5*10=50 Marks)**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Essay type questions (5*10=50 Marks)
+- **QI. Discuss preoperative management of a 65 year old diabetic patient with keto acidosis**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - QI. Discuss preoperative management of a 65 year old diabetic patient with keto acidosis
+- **planned for emergency drainage of thigh abscess**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - planned for emergency drainage of thigh abscess
+- **Describe preoperative evaluation and anesthesia management in a 50 year old with**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Describe preoperative evaluation and anesthesia management in a 50 year old with
+- **Discuss preoperative preparation and intra operative fimnepement ofa 30 year old**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Discuss preoperative preparation and intra operative fimnepement ofa 30 year old
+- **posted for scoliosis surgery.**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - posted for scoliosis surgery.
+- **e carbohydrate loading**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - e carbohydrate loading
+- **ery for laryngeal papilloma**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ery for laryngeal papilloma
+- **n-July/August 2025**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - n-July/August 2025
+- **ities Anaesthesi**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ities Anaesthesi
+- **lities/ Super Spe**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - lities/ Super Spe
+- **@ Answer all the qu**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - @ Answer all the qu
+- **mais posted for tumour resectioh, PXplain the concept**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - mais posted for tumour resectioh, PXplain the concept
+- **A-45-year-old male with a right frontal gli**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - A-45-year-old male with a right frontal gli
+- **bom at term, has.no major comorbidities, buthas-a-history of noisy: breathing during sleep. Plan**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - bom at term, has.no major comorbidities, buthas-a-history of noisy: breathing during sleep. Plan
+- **What is monitored Anaesthesia Care? Whg)are the anaesthetic considerations in 2 3-year-old**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - What is monitored Anaesthesia Care? Whg)are the anaesthetic considerations in 2 3-year-old
+- **Answer the followin**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Answer the followin
+- **List the clinical indjgations for OLV and enumerate the types of dgyiees used to achieve OLV**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - List the clinical indjgations for OLV and enumerate the types of dgyiees used to achieve OLV
+- **Explain the phys(togical” principles and: Key anaesthetic: considerations during OLY,**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Explain the phys(togical” principles and: Key anaesthetic: considerations during OLY,
+- **Discuss the different roles of Magnes**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Discuss the different roles of Magnes
+- **Management of Magnesium soticity**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Management of Magnesium soticity
+- **Compare and Contrast**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Compare and Contrast
+- **« b) Mannitol Vs Hypertonic Saline ¥**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - « b) Mannitol Vs Hypertonic Saline ¥
+- **9, -What is pechabiltation? Outline the various prebabilitation modalities that can improve patient**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - 9, -What is pechabiltation? Outline the various prebabilitation modalities that can improve patient
+- **outcomes following surgery**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - outcomes following surgery
+- **MENT OF ANAESTHESIOLOGY**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - MENT OF ANAESTHESIOLOGY
+- **Examination PAPER i**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - Examination PAPER i
+- **Date — 19-07-2025 MARKS**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - Date — 19-07-2025 MARKS
+- **. (Max Marks 20)**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - . (Max Marks 20)
+- **Patient coming for Removal of Pheochromocytema.**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - Patient coming for Removal of Pheochromocytema.
+- **Anaesethesia for Laser Surgery of Larynx.**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - Anaesethesia for Laser Surgery of Larynx.
+- **Anaesthetic management of Laproscopic tubal ligation.**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - Anaesthetic management of Laproscopic tubal ligation.
+- **Paper-II: Practice of anaesthesia: Anaesthesi:**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Paper-II: Practice of anaesthesia: Anaesthesi:
+- **\gram wherever necessary.**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - \gram wherever necessary.
+- **Nore fear-old male patient is scheduled for live related fénal transplant,**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Nore fear-old male patient is scheduled for live related fénal transplant,
+- **anaesthetic considerations, preparation, optimization and manage**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - anaesthetic considerations, preparation, optimization and manage
+- **;numerate and discuss**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ;numerate and discuss
+- **Define & Discuss:**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Define & Discuss:
+- **ind its clinical relevance.**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ind its clinical relevance.
+- **What is diastolic dysfimetion? Discuss the evaluation and clinical implications to the**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - What is diastolic dysfimetion? Discuss the evaluation and clinical implications to the
+- **DPiserss nt, preparation and management of anaesthesia in a chronic smoker posted for**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - DPiserss nt, preparation and management of anaesthesia in a chronic smoker posted for
+- **GF Pescrie anaesthetic manageme**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - GF Pescrie anaesthetic manageme
+- **¥y bronchoscopic removal of foreign body from**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ¥y bronchoscopic removal of foreign body from
+- **sar-old male patient for**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - sar-old male patient for
+- **k Se ‘A 35-year-old lady with huge thyroid mass presenting with thyrotoxicosis is posted for subtotal**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - k Se ‘A 35-year-old lady with huge thyroid mass presenting with thyrotoxicosis is posted for subtotal
+- **fracture neck femur.**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - fracture neck femur.
+- **& Discuss preoperative evaluation for diabetic**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - & Discuss preoperative evaluation for diabetic
+- **seks The End #48e**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - seks The End #48e
+- **MD Anaesthesiology and Crit**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - MD Anaesthesiology and Crit
+- **Basic Science as Applied to Anaesthesia**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Basic Science as Applied to Anaesthesia
+- **Describe the primary mechanisms‘67 which oxygen and carbon dioxide are transported in the**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Describe the primary mechanisms‘67 which oxygen and carbon dioxide are transported in the
+- **the concept of the Oxygen**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - the concept of the Oxygen
+- **Cascade. Explain the fans affecting alveolarcapllary gas eXchange and their significance in**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Cascade. Explain the fans affecting alveolarcapllary gas eXchange and their significance in
+- **maintaining adequate oxygenation during anaesthesia. (ors)**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - maintaining adequate oxygenation during anaesthesia. (ors)
+- **Describe the mechanism of action of local anesthetics. Dione the sans, symproms, and**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Describe the mechanism of action of local anesthetics. Dione the sans, symproms, and
+- **+ 3--Discuss the diagnosis and management of acute intraoperative hyperthermia. 5)**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - + 3--Discuss the diagnosis and management of acute intraoperative hyperthermia. 5)
+- **“4. What is Second gas effect? Discuss Nitrous Oxide-Current status in Anaesthesia Practice. (S*5)**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - “4. What is Second gas effect? Discuss Nitrous Oxide-Current status in Anaesthesia Practice. (S*5)
+- **_4 explain the mechanisms of heat foss in the operating room. Discuss the physick**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - _4 explain the mechanisms of heat foss in the operating room. Discuss the physick
+- **consequences of hypothermia during anaesthesia and the strategies employed to maintain**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - consequences of hypothermia during anaesthesia and the strategies employed to maintain
+- **Write short notes on 65)**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Write short notes on 65)
+- **a). Colloids solutions - merits and demerits**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - a). Colloids solutions - merits and demerits
+- **aese* The End *******
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - aese* The End *****
+- **Paper Code- 25AM0100100013**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 3
+  - *Marks*: N/A
+  - *Variations*:
+    - Paper Code- 25AM0100100013
+- **How will you manage this case giving recent guidelines.**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 3
+  - *Marks*: N/A
+  - *Variations*:
+    - How will you manage this case giving recent guidelines.
+- **intraoperative and postoperative anaesthetic management of donar and recipient**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 3
+  - *Marks*: N/A
+  - *Variations*:
+    - intraoperative and postoperative anaesthetic management of donar and recipient
+- **Intra-operative Bapithospasm management.**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 3
+  - *Marks*: N/A
+  - *Variations*:
+    - Intra-operative Bapithospasm management.
+- **Subject-Anaesthesiology**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 3
+  - *Marks*: N/A
+  - *Variations*:
+    - Subject-Anaesthesiology
+- **Paper Code-25AM0100100012**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Paper Code-25AM0100100012
+- **Time : 3Hours Maximum Marks : 100**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Time : 3Hours Maximum Marks : 100
+- **Short Question (Attempt Any Six) (6X10=60)**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Short Question (Attempt Any Six) (6X10=60)
+- **3 Magnesium toxicity.**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - 3 Magnesium toxicity.
+- **7 Causes and management of postoperative hygonia.**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - 7 Causes and management of postoperative hygonia.
+- **f.  Aschner reflex. Se**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - f.  Aschner reflex. Se
+- **W3) Sn authesic a7, a Ws. Chil “ at**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - W3) Sn authesic a7, a Ws. Chil “ at
+- **) ue fi - qd (Po ae a Jo forky**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ) ue fi - qd (Po ae a Jo forky
+- **) Tea tropa lbar, IP Has wa “e - x sete**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ) Tea tropa lbar, IP Has wa “e - x sete
+- **V2) Nnascthede  Cnewrrebeun hon 4 %- Jee Teel hoy**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - V2) Nnascthede  Cnewrrebeun hon 4 %- Jee Teel hoy
+- **Abteo fe in 4 x ole ohilel he I Mer x ts th,**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Abteo fe in 4 x ole ohilel he I Mer x ts th,
+- **Door pie] ny) 9 eto**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Door pie] ny) 9 eto
+- **as) _ fetes Encbouei'e fina Sy.**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - as) _ fetes Encbouei'e fina Sy.
+- **fog 8) x 6 Werte**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - fog 8) x 6 Werte
+- **a) cis 5 fe [Pop (L Fune 13) x/o Sy.**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - a) cis 5 fe [Pop (L Fune 13) x/o Sy.
+- **(Gi ss x 20 Muh, i f r 7**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - (Gi ss x 20 Muh, i f r 7
+- **Qa bale 27) paw ( Pepe WwW Jere r) K 10 "hodky**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Qa bale 27) paw ( Pepe WwW Jere r) K 10 "hodky
+- **Dirur  drutrehy if Toni aolenercl**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Dirur  drutrehy if Toni aolenercl
+- **a) Dre (pope z ty ons) x yo wholes**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - a) Dre (pope z ty ons) x yo wholes
+- **he Prec Pet ov) vie thorks,**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - he Prec Pet ov) vie thorks,
+- **#3) rah the. (fe J Aarmestorcs : How a a**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - #3) rah the. (fe J Aarmestorcs : How a a
+- **Cveleat alin a: hes 1 what fizceton 0H ge**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Cveleat alin a: hes 1 what fizceton 0H ge
+- **dake boss 5 Cpe Y Bly) x yottorhs,**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - dake boss 5 Cpe Y Bly) x yottorhs,
+- **") “homdactasopin (fof, Dip) x to**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ") “homdactasopin (fof, Dip) x to
+- **cs es Toyo (feb Ze Wet 13) x todarky**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - cs es Toyo (feb Ze Wet 13) x todarky
+- **stub Arpous “tnd thom Paiva (frost acts) x toro**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - stub Arpous “tnd thom Paiva (frost acts) x toro
+- **a) WAnartrara Lonirtuabyn tn fe @ Stkle Lal) rvnomk**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - a) WAnartrara Lonirtuabyn tn fe @ Stkle Lal) rvnomk
+- **(frpo @ od ra) ¥ !2 dehy**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - (frpo @ od ra) ¥ !2 dehy
+- **°) cookin Coplay Be a) Mk**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - °) cookin Coplay Be a) Mk
+- **TRARY (Pipleme fife 0 18) x to Markey**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - TRARY (Pipleme fife 0 18) x to Markey
+- **(a) Ree purals| sala tem**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - (a) Ree purals| sala tem
+- **CD - Dyaw a Ae nga of jah**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - CD - Dyaw a Ae nga of jah
+- **( tianntinos yon war prevention sh**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ( tianntinos yon war prevention sh
+- **tobreteirs neriny**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - tobreteirs neriny
+- **4-0 Maxles - 22M:**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - 4-0 Maxles - 22M:
+- **@. Nowweal pres wun ve) —_—***
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - @. Nowweal pres wun ve) —_—*
+- **1 O wrarks MD pre**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - 1 O wrarks MD pre
+- **Ayacsthelie? chesRenges tw foie earn p**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Ayacsthelie? chesRenges tw foie earn p
+- **ECMO lover - Popes 4 MD**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ECMO lover - Popes 4 MD
+- **Popsr | - 21 1D woud - al**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Popsr
+    - - 21 1D woud - al
+- **@ Caprawal ry jomaria MP**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - @ Caprawal ry jomaria MP
+- **ante h prarokeunts Soops**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ante h prarokeunts Soops
+- **e a aan vin drs 2 oat ie**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - e a aan vin drs 2 oat ie
+- **router ehradagus aie oan**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - router ehradagus aie oan
+- **_ ap mons, peopel mu**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - _ ap mons, peopel mu
+- **xy lourasler. MD: Papers,**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - xy lourasler. MD: Papers,
+- **LEPPPPPPPPPp reap a Use eee ISS So**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - LEPPPPPPPPPp reap a Use eee ISS So
+- **BORG CRBE PII AI AINE ee ewer e|e cn”**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - BORG CRBE PII AI AINE ee ewer e|e cn”
+- **{' Lk imaiitiaal a Diwrn - 10 wales Papor 2 My**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - {' Lk imaiitiaal a Diwrn - 10 wales Papor 2 My
+- **G) Perentey ie r q**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - G) Perentey ie r q
+- **© gba avatouw iy oh Neeteee bronco tr oon petal**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - © gba avatouw iy oh Neeteee bronco tr oon petal
+- **REN pops, 4 Our Luwy weubrlolionr . Ome procesly**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - REN pops, 4 Our Luwy weubrlolionr . Ome procesly
+- **‘ anadhr he aun saameal af, on pi achediutid for**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ‘ anadhr he aun saameal af, on pi achediutid for
+- **bittoury » 2b Wt — perper | — DA- 2001**
+  - *Frequency*: 1
+  - *Years*: 2001
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - bittoury » 2b Wt — perper
+    - — DA- 2001
+- **onajanme uray Dw eb patents Lo unarkk paper DA**
+  - *Frequency*: 1
+  - *Years*: 2001
+  - *Papers*: Paper 2
+  - *Marks*: 3
+  - *Variations*:
+    - onajanme uray Dw eb patents Lo unarkk paper DA
+- **MH Mmedrw amvey asersemunt Bale Wonk preiesdy**
+  - *Frequency*: 1
+  - *Years*: 2001
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - MH Mmedrw amvey asersemunt Bale Wonk preiesdy
+- **Yu maonsyanuat a unvanlurpald Aappecult aro ay,**
+  - *Frequency*: 1
+  - *Years*: 2001
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Yu maonsyanuat a unvanlurpald Aappecult aro ay,
+- **Qo vrarks - pap) - PA- 20%**
+  - *Frequency*: 1
+  - *Years*: 2001
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Qo vrarks - pap) - PA- 20%
+- **@ tls ~ value 9 ob pus pap 2 D&W**
+  - *Frequency*: 1
+  - *Years*: 2001
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - @ tls ~ value 9 ob pus pap 2 D&W
+- **ALMA ™ | pe : to wsanks**
+  - *Frequency*: 1
+  - *Years*: 2001
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ALMA ™
+    - pe : to wsanks
+- **() Preony gereem “phy ator boo wr Bi 1 petawlint vite**
+  - *Frequency*: 1
+  - *Years*: 2001
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - () Preony gereem “phy ator boo wr Bi 1 petawlint vite
+- **) AN} pre vcore veut a**
+  - *Frequency*: 1
+  - *Years*: 2001
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ) AN} pre vcore veut a
+- **dap flo aud devs oggerlns U**
+  - *Frequency*: 1
+  - *Years*: 2001
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - dap flo aud devs oggerlns U
+- **@) PeQurdy prlromary Sy Tuat - amram at**
+  - *Frequency*: 1
+  - *Years*: 2001
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - @) PeQurdy prlromary Sy Tuat - amram at
+- **; yo maarles DA org Papers]**
+  - *Frequency*: 1
+  - *Years*: 2001
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ; yo maarles DA org Papers]
+- **@)- pfu vi el DvD Bargngoa pra uw**
+  - *Frequency*: 1
+  - *Years*: 2001
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - @)- pfu vi el DvD Bargngoa pra uw
+- **Sorrel np ae Lo prarls DA 7914 paper 2**
+  - *Frequency*: 1
+  - *Years*: 2001
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Sorrel np ae Lo prarls DA 7914 paper 2
+- **EG Dracrbe Hu anaforuy of fratrondnih OU -**
+  - *Frequency*: 1
+  - *Years*: 2001
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - EG Dracrbe Hu anaforuy of fratrondnih OU -
+- **Drs Ku enetuuhe managemel 4 a patient 36y**
+  - *Frequency*: 1
+  - *Years*: 2001
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Drs Ku enetuuhe managemel 4 a patient 36y
+- **eche dled for oratrtomy - 20**
+  - *Frequency*: 1
+  - *Years*: 2001
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - eche dled for oratrtomy - 20
+- **OF dese san sapere ef pulnionary | punrebad tat**
+  - *Frequency*: 1
+  - *Years*: 2001
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - OF dese san sapere ef pulnionary
+    - punrebad tat
+- **pin Pat of pati Reverse ApoE gostop pularonany**
+  - *Frequency*: 1
+  - *Years*: 2001
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - pin Pat of pati Reverse ApoE gostop pularonany
+- **applications . 70 wail Lup ola Paper 2.**
+  - *Frequency*: 1
+  - *Years*: 2001
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - applications . 70 wail Lup ola Paper 2.
+- **=! nage ee dhock, l Pop ~~ =**
+  - *Frequency*: 1
+  - *Years*: 2001
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - =! nage ee dhock, l Pop ~~ =
+- **TE Diblma ru a) K lo Marks.**
+  - *Frequency*: 1
+  - *Years*: 2001
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - TE Diblma ru a) K lo Marks.
+- **aie) sep! So formed Cortent T Ashes M Diploma Au a1) x Jo ashy,**
+  - *Frequency*: 1
+  - *Years*: 2001
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - aie) sep! So formed Cortent T Ashes M Diploma Au a1) x Jo ashy,
+- **az) bo flow Hnaettor, [fof TPG weg ay) x fo Masta.**
+  - *Frequency*: 1
+  - *Years*: 2001
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - az) bo flow Hnaettor, [fof TPG weg ay) x fo Masta.
+- **eer eeeee SS SSSTeerecrerel eer errris**
+  - *Frequency*: 1
+  - *Years*: 2001
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - eer eeeee SS SSSTeerecrerel eer errris
+- **SUBSPECIALTIES / SUPERSPECIALITIES**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper II1
+  - *Marks*: N/A
+  - *Variations*:
+    - SUBSPECIALTIES / SUPERSPECIALITIES
+- **© Atiempt all questions**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper II1
+  - *Marks*: N/A
+  - *Variations*:
+    - © Atiempt all questions
+- **QJDiscuss the preoperative assessment of a patient posted for Pneumonectomy. What are the n**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper II1
+  - *Marks*: N/A
+  - *Variations*:
+    - QJDiscuss the preoperative assessment of a patient posted for Pneumonectomy. What are the n
+- **H_ post operative complications that can ozcur in these patients**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper II1
+  - *Marks*: N/A
+  - *Variations*:
+    - H_ post operative complications that can ozcur in these patients
+- **rc the peri-operative management of an adult posted for Posterior Fossa Surgery. 10**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper II1
+  - *Marks*: N/A
+  - *Variations*:
+    - rc the peri-operative management of an adult posted for Posterior Fossa Surgery. 10
+- **PRACTICE OF ANAESTHESIOLOGY**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - PRACTICE OF ANAESTHESIOLOGY
+- **‘Q: Disvess perioperative mangement of a germs patient reported i**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - ‘Q: Disvess perioperative mangement of a germs patient reported i
+- **‘aura for laparotomy.**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - ‘aura for laparotomy.
+- **Q.3 Discuss Anaesthetic**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - Q.3 Discuss Anaesthetic
+- **management of an Acromegaly patient posted for Pituitary tumour resection. 10**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - management of an Acromegaly patient posted for Pituitary tumour resection. 10
+- **Q.5 Discuss the Anaesthetic management of inadequately controlled Diabetes Mellitus patient with**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - Q.5 Discuss the Anaesthetic management of inadequately controlled Diabetes Mellitus patient with
+- **Keloacidosis posted for below knee amputation 1**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - Keloacidosis posted for below knee amputation 1
+- **b. Write short note on Double-Lumen Endobronchial tubes. 5**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - b. Write short note on Double-Lumen Endobronchial tubes. 5
+- **b, Write short note on Hyperkalemia and its management eh**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - b, Write short note on Hyperkalemia and its management eh
+- **BASIC SCIENCES AS APPLIED TO ANAESTHESIOLOGY**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - BASIC SCIENCES AS APPLIED TO ANAESTHESIOLOGY
+- **‘Code: MDAN-L Max. Marks: 100**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - ‘Code: MDAN-L Max. Marks: 100
+- **‘ante Your anewer with sulabledagrams Neo**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - ‘ante Your anewer with sulabledagrams Neo
+- **part COs= 20M nN**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - part COs= 20M nN
+- **Part-ILTheory= 80 Marks wy,**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - Part-ILTheory= 80 Marks wy,
+- **ea Dee ne nee tlltigg Disuse wenning regis 10**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - ea Dee ne nee tlltigg Disuse wenning regis 10
+- **Write the management of**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - Write the management of
+- **4 Describe anatomy}**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - 4 Describe anatomy}
+- **2: natomy of | fie lexis insu dire apn Siches or brachial plenus tock 10**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - 2: natomy of
+    - fie lexis insu dire apn Siches or brachial plenus tock 10
+- **Fags: What is EDOS and what i is imporance 10**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - Fags: What is EDOS and what i is imporance 10
+- **Yathesis of thyroid horm**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - Yathesis of thyroid horm
+- **Hea nones. Enumerate thyroid function tests mee management**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - Hea nones. Enumerate thyroid function tests mee management
+- **(©) Sugsamadex Wa os Aw**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - (©) Sugsamadex Wa os Aw
+- **E aad describe any one technique**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - E aad describe any one technique
+- **ein Brief: - (Any Six) :**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - ein Brief: - (Any Six) :
+- **Bronchospasm in relation’ aeseaiesac!! i**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - Bronchospasm in relation’ aeseaiesac!! i
+- **Toxicity of lignocaine /**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - Toxicity of lignocaine /
+- **Anesthesia Breathing Boa**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - Anesthesia Breathing Boa
+- **\SA Physical status Classification**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - \SA Physical status Classification
+- **Subject- nesthesiology**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - Subject- nesthesiology
+- **Paper Code- 25AM0100100011**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - Paper Code- 25AM0100100011
+- **11 Answers of Questions and Sub questions must be written steely according (0 Me**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - 11 Answers of Questions and Sub questions must be written steely according (0 Me
+- **question paper, otersise tte questo” shall not be valued**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - question paper, otersise tte questo” shall not be valued
+- **a. Draw well labeled diagram of anormal T HROMBOELA’ TOGRAPH & C linical**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - a. Draw well labeled diagram of anormal T HROMBOELA’ TOGRAPH & C linical
+- **application of different form of TEGs in anesthesia practice.**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - application of different form of TEGs in anesthesia practice.
+- **eterminants. Describe invasive and non invasive**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - eterminants. Describe invasive and non invasive
+- **c. Describe the normal coronar**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - c. Describe the normal coronar
+- **discus in brief about preoperative evalua**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - discus in brief about preoperative evalua
+- **Q2 — Short Answer Question (Attempt Any Six)**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - Q2 — Short Answer Question (Attempt Any Six)
+- **a, __ AGSS (anesthetic gas scavenging sysiem.**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - a, __ AGSS (anesthetic gas scavenging sysiem.
+- **4g. Professor Antonio Aldret’.**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - 4g. Professor Antonio Aldret’.
+- **3Jiminationdvalf time vs context sensitive half time for fentanyl.**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - 3Jiminationdvalf time vs context sensitive half time for fentanyl.
+- **Vicaridt@ liability for negligence.**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - Vicaridt@ liability for negligence.
+- **be Lew flow anesthesia**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - be Lew flow anesthesia
+- **si Orit anything.**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - si Orit anything.
+- **or wriecont coun**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - or wriecont coun
+- **ad esh Mest Science Up;**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - ad esh Mest Science Up;
+- **Paper-II ‘amination J abalpur**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Paper-II ‘amination J abalpur
+- **Subject- Anaesthesiolo “anuary-2995**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Subject- Anaesthesiolo “anuary-2995
+- **paper Code- 25AM0100100919**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - paper Code- 25AM0100100919
+- **‘sub questions must be written strict)**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ‘sub questions must be written strict)
+- **que ise the question Shall not be valued "4" toch**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - que ise the question Shall not be valued "4" toch
+- **on the blank portion of the question p ape ‘ial order of**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - on the blank portion of the question p ape ‘ial order of
+- **fair means. Such type of ai**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - fair means. Such type of ai
+- **ict will be con: WS**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ict will be con: WS
+- **ng Answer Question(Attempt Any Two)**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ng Answer Question(Attempt Any Two)
+- **about the anaesthetic consideratio > 2x2**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - about the anaesthetic consideratio > 2x2
+- **VATS lobectomy. fora 65 years/malesEbrénie smok**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - VATS lobectomy. fora 65 years/malesEbrénie smok
+- **ibe the perioperative anaesthesia con: \**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ibe the perioperative anaesthesia con: \
+- **ma: cheduled for thyroidectomy. isTors2 yeealfemale with large thyroid**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ma: cheduled for thyroidectomy. isTors2 yeealfemale with large thyroid
+- **Describe the anaesthetic management and consider vii**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Describe the anaesthetic management and consider vii
+- **_ Intra operative management %**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - _ Intra operative management %
+- **Thyroid stormy ©**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Thyroid stormy ©
+- **CRinniotic Fluid Embolism™ 7**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - CRinniotic Fluid Embolism™ 7
+- **Subject- naesthesiology**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Subject- naesthesiology
+- **i Paper Code- 254M0100100013**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - i Paper Code- 254M0100100013
+- **ee pene. Hours Maximum Marks : 109**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ee pene. Hours Maximum Marks : 109
+- **Q1 Long Answer Question(Attempt Any Two), kp -7X20=40**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Q1 Long Answer Question(Attempt Any Two), kp -7X20=40
+- **Discuss about the anaesthetic management of 70 year Ape BPH patient with history**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Discuss about the anaesthetic management of 70 year Ape BPH patient with history
+- **ver Transplant. Discuss in detail**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ver Transplant. Discuss in detail
+- **Pace ation January.2995**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Pace ation January.2995
+- **Tiegh aper Code-25AM0100100014 n**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Tiegh aper Code-25AM0100100014 n
+- **jee) Maximum Marks: 100**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - jee) Maximum Marks: 100
+- **1 Drew diagrams wherever necessary,**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - 1 Drew diagrams wherever necessary,
+- **a. Answers Of Questions and ‘Sub questions must be IPritenstricty according tothe seriat onder of**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - a. Answers Of Questions and ‘Sub questions must be IPritenstricty according tothe seriat onder of
+- **Westion paper, otherwise the ‘Gestion shall not be valued Se**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Westion paper, otherwise the ‘Gestion shall not be valued Se
+- **IM. Do not write Gnvthing on the blank portion f the question paper- such ‘pe of wt will be considered wan**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - IM. Do not write Gnvthing on the blank portion f the question paper- such ‘pe of wt will be considered wan
+- **‘UEMPL 0 resorito unfair mega ug**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ‘UEMPL 0 resorito unfair mega ug
+- **Q1 Long Answer Question(A ttempt Any Two) af» 2X20=40**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Q1 Long Answer Question(A ttempt Any Two) af» 2X20=40
+- **2 Write in brief the criteria for :**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - 2 Write in brief the criteria for :
+- **b. What isthe role ofsimulatos ia the Heian ng mc an anaesthesiolog**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - b. What isthe role ofsimulatos ia the Heian ng mc an anaesthesiolog
+- **intensivist? , va**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - intensivist? , va
+- **Role of Magnesium in hones**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Role of Magnesium in hones
+- **lee date! alow phe qnasthelie an”**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - lee date! alow phe qnasthelie an”
+- **& yr Ole mare posted fo PCF pyre Ly , 2op**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - & yr Ole mare posted fo PCF pyre Ly , 2op
+- **Dean Barre Syrdrom C.pe7re2—) =]**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Dean Barre Syrdrom C.pe7re2—) =]
+- **Dis yori Steps clarvah' ;**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Dis yori Steps clarvah' ;
+- **Ce gain “2on(B) (an mart)**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Ce gain “2on(B) (an mart)
+- **rolop ic mister A gslire. 2orr Dy**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - rolop ic mister A gslire. 2orr Dy
+- **orto OTS tre ArwsHolit chalarnges i Meuoanasthe s**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - orto OTS tre ArwsHolit chalarnges i Meuoanasthe s
+- **mesibe He potwperudive prtporadion a fimestvehe**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - mesibe He potwperudive prtporadion a fimestvehe
+- **ic ec pk Of Sol © yeuseol TCjo few Caanidtor**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ic ec pk Of Sol © yeuseol TCjo few Caanidtor
+- **( @2- ~rlignaat Huber Herr g Cy) .**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ( @2- ~rlignaat Huber Herr g Cy) .
+- **| q-s <_Rerihoe put physielogy op 6h Ur culetion, Djtert**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - | q-s <_Rerihoe put physielogy op 6h Ur culetion, Djtert
+- **Tre estrolie wm pee Syms Sih pow)**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Tre estrolie wm pee Syms Sih pow)
+- **2S Iv old mao ph Wren RTa, Piatenteg: Gets ia r**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - 2S Iv old mao ph Wren RTa, Piatenteg: Gets ia r
+- **Ported for Srelualin Y DH eetbe pie, aspen**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Ported for Srelualin Y DH eetbe pie, aspen
+- **Green & mfrot te pt bin é**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Green & mfrot te pt bin é
+- **Q:2- erie: Jig physto ( to jravyy y**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Q:2- erie: Jig physto ( to jravyy y
+- **PSee097 Jue Pratehe eres , ft**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - PSee097 Jue Pratehe eres , ft
+- **old beby Of Hy dpocep lueles Mo clod vi 1 be F monn, ,**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - old beby Of Hy dpocep lueles Mo clod vi 1 be F monn, ,
+- **So ie 1 prneiples | 5 ojo] emf a tn coiotor | C=**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - So ie 1 prneiples
+    - 5 ojo] emf a tn coiotor
+    - C=
+- **Q. Umm posh op. Ser te ap**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Q. Umm posh op. Ser te ap
+- **a Emu meralz He fexctos re gesleling Cape] pee of Yori**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - a Emu meralz He fexctos re gesleling Cape] pee of Yori
+- **Westhelic apes ecw TOS) g BN**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Westhelic apes ecw TOS) g BN
+- **ce the clinical clasmifiecttion of MY » 1 wohl =**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ce the clinical clasmifiecttion of MY » 1 wohl =
+- **“dunt X yey are avalleble fer pr of**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - “dunt X yey are avalleble fer pr of
+- **Os 9 ‘ im : tesfrect cig pe yole i he 4**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Os 9 ‘ im : tesfrect cig pe yole i he 4
+- **Ele of BEE | 2omeh2 \epay**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Ele of BEE
+    - 2omeh2 \epay
+- **Uss He panes f quasHwhe “dle _a**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Uss He panes f quasHwhe “dle _a
+- **Q- 3 €eyroruf prob] 201] lem . cwsedaka T/pErS) (Tory)**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Q- 3 €eyroruf prob] 201] lem . cwsedaka T/pErS) (Tory)
+- **panepls “ mrs oa ph © Sever**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - panepls “ mrs oa ph © Sever
+- **ae Pjur C Apecles oe; be pee**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ae Pjur C Apecles oe; be pee
+- **Galen. Houy 2 Raryoiot grierveatter PRETO**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Galen. Houy 2 Raryoiot grierveatter PRETO
+- **( & 2. Beswthe Causes mim 4 raked Tp duriry propre**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ( & 2. Beswthe Causes mim 4 raked Tp duriry propre
+- **Od « Pesenlox Generel pers a Pres 7'e lune.**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Od « Pesenlox Generel pers a Pres 7'e lune.
+- **Cranlofony (Dome [) Da)**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Cranlofony (Dome [) Da)
+- **8 eal ke ( Ph i Ey rome**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - 8 eal ke ( Ph i Ey rome
+- **Ge IPF tvering boone. lo 9)**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Ge IPF tvering boone. lo 9)
+- **a de wuborumic Pevsepity Syeluyoek,y**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - a de wuborumic Pevsepity Syeluyoek,y
+- **®: Op - Hhsh iS [Bh spires in Orestesy**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ®: Op - Hhsh iS [Bh spires in Orestesy
+- **ae of post wth low Lonfugoepase**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ae of post wth low Lonfugoepase
+- **panned - dD- VOD - Paper TT**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - panned - dD- VOD - Paper TT
+- **es) hypenut pulmonar . ape rennet edie Up wares 4 ms**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - es) hypenut pulmonar . ape rennet edie Up wares 4 ms
+- **() Newllolad aryoorotes preaennn 1 menris Ld O14 Per por 4,**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - () Newllolad aryoorotes preaennn 1 menris Ld O14 Per por 4,
+- **) FRC and ut anuthele plein? yo wns ub 1h Papert**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ) FRC and ut anuthele plein? yo wns ub 1h Papert
+- **iS) Acppununs Aapenia Wo wud ap vie Part**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - iS) Acppununs Aapenia Wo wud ap vie Part
+- **N)e98x mandy penllatao dius ond Af true**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - N)e98x mandy penllatao dius ond Af true
+- **ment. taowl wan du on ier content of 2 dingansioe ents sf**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ment. taowl wan du on ier content of 2 dingansioe ents sf
+- **gecsndary HRoe. 20 warts Ub Voit pager**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - gecsndary HRoe. 20 warts Ub Voit pager
+- **® darby ony qew dupa ALU NL Horo dois U dubia**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ® darby ony qew dupa ALU NL Horo dois U dubia
+- **rom (0, Pusiveraliay Cue? Worrorks prd LS papenh**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - rom (0, Pusiveraliay Cue? Worrorks prd LS papenh
+- **pede, deverden ts dita**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - pede, deverden ts dita
+- **GB taravde of PPV and oh prevenboan**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - GB taravde of PPV and oh prevenboan
+- **Nona) Preceuyos uv Hea Bonen 4 Puniona gi i**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Nona) Preceuyos uv Hea Bonen 4 Puniona gi i
+- **Heosely tort the athered Veurocdyrnowice, fy pach vw**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Heosely tort the athered Veurocdyrnowice, fy pach vw
+- **Myra strate Mauer bouteuk Wa mh**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Myra strate Mauer bouteuk Wa mh
+- **fer Mba vale. Teplacomeru -**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - fer Mba vale. Teplacomeru -
+- **S- brea, Preepeuihve prepa**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - S- brea, Preepeuihve prepa
+- **qt Se yr ol fohew- z**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - qt Se yr ol fohew- z
+- **mm B-Rlocker aul lua aich’ Platele+**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - mm B-Rlocker aul lua aich’ Platele+
+- **Seuss DiScue agement prcpgeanen**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Seuss DiScue agement prcpgeanen
+- **sul © Mihal SA 1**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - sul © Mihal SA 1
+- **Chevy - Mins 202 ) pea I)**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Chevy - Mins 202 ) pea I)
+- **orohe, aAbwlhthe Ma**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - orohe, aAbwlhthe Ma
+- **petenroloy <a Coronoaty Ges—**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - petenroloy <a Coronoaty Ges—
+- **Ae Disa Aaa Be a old ppt z th ord bees**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Ae Disa Aaa Be a old ppt z th ord bees
+- **(cA fr Obchudled iBuusl (Toy — 2021**
+  - *Frequency*: 1
+  - *Years*: 2021
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - (cA fr Obchudled iBuusl (Toy — 2021
+- **C brace Ute of prow CVF _S CVF __ bireuse weed**
+  - *Frequency*: 1
+  - *Years*: 2021
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - C brace Ute of prow CVF _S CVF __ bireuse weed
+- **Mt aug a [ef Benger qd**
+  - *Frequency*: 1
+  - *Years*: 2021
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Mt aug a [ef Benger qd
+- **emma ¥R (leg Tl >02/) 02**
+  - *Frequency*: 1
+  - *Years*: 2021
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - emma ¥R (leg Tl >02/) 02
+- **btn lin sh Me Peel € =u**
+  - *Frequency*: 1
+  - *Years*: 2021
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - btn lin sh Me Peel € =u
+- **Pe. tuprcopuch ve wens Cor IP sor)**
+  - *Frequency*: 1
+  - *Years*: 2021
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Pe. tuprcopuch ve wens Cor IP sor)
+- **Mtn. 4 “fecha Meas Ds.**
+  - *Frequency*: 1
+  - *Years*: 2021
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Mtn. 4 “fecha Meas Ds.
+- **oP ie 7 bua Me dug & dbobw**
+  - *Frequency*: 1
+  - *Years*: 2021
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - oP ie 7 bua Me dug & dbobw
+- **I sews oe a prepeustin & Pewep Ma af pt Vaviy YbeBllaraey be wa oh ae**
+  - *Frequency*: 1
+  - *Years*: 2021
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - I sews oe a prepeustin & Pewep Ma af pt Vaviy YbeBllaraey be wa oh ae
+- **3- Dhie(DaD Ca IharS  Myerbenes (on) Derceloe Vas**
+  - *Frequency*: 1
+  - *Years*: 2021
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - 3- Dhie(DaD Ca IharS  Myerbenes (on) Derceloe Vas
+- **No Thugs d eter HT aps | thee / by.**
+  - *Frequency*: 1
+  - *Years*: 2021
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - No Thugs d eter HT aps
+    - thee / by.
+- **& Panag eames M , Ser. Jor**
+  - *Frequency*: 1
+  - *Years*: 2021
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - & Panag eames M , Ser. Jor
+- **¢. Degris Dm. Uorsify ir , Decers <> TD ley 20>]**
+  - *Frequency*: 1
+  - *Years*: 2021
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ¢. Degris Dm. Uorsify ir , Decers <> TD ley 20>]
+- **T- Deoctile peop. Ovalwalin a pk © Din ecwediad For**
+  - *Frequency*: 1
+  - *Years*: 2021
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - T- Deoctile peop. Ovalwalin a pk © Din ecwediad For
+- **is ian ee ig Hee oF**
+  - *Frequency*: 1
+  - *Years*: 2021
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - is ian ee ig Hee oF
+- **Mating Urbane ralive ~I 2020.**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Mating Urbane ralive ~I 2020.
+- **1 And. droscthehes \**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - 1 And. droscthehes \
+- **$ Decor He dntal promubalen ,**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - $ Decor He dntal promubalen ,
+- **mpg Gre ee pe ant 8 7**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - mpg Gre ee pe ant 8 7
+- **TU ~ Chott -)) , wy}**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - TU ~ Chott -)) , wy}
+- **lo. Dereube péesp tvalaabiar prepauitn md pertop womrorfenert) —**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - lo. Dereube péesp tvalaabiar prepauitn md pertop womrorfenert) —
+- **ltepeedenseid, bt posted For UgHaakalinyratcecton, Inj**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ltepeedenseid, bt posted For UgHaakalinyratcecton, Inj
+- **_ ape Maral relLarne X bast pepare Fo —**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - _ ape Maral relLarne X bast pepare Fo —
+- **Q- Thad unevs — thot {) 207-**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Q- Thad unevs — thot {) 207-
+- **[3— Drs eumprtbles, Preporalrer Ayvnertheler Vane pare —**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - [3— Drs eumprtbles, Preporalrer Ayvnertheler Vane pare —
+- **Of Dr Scheduled Fac fiuadhornte osha 5 — T2019 log**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Of Dr Scheduled Fac fiuadhornte osha 5 — T2019 log
+- **wees Inet Nalin \nploudelote, tency VIC elu II 2414**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - wees Inet Nalin \nploudelote, tency VIC elu II 2414
+- **2 Rnaerthete tisldorte mapeahew Z covece. YW Chef Zu.**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - 2 Rnaerthete tisldorte mapeahew Z covece. YW Chef Zu.
+- **beaus te Aracttoltz Minagemeur im proop: pusher**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - beaus te Aracttoltz Minagemeur im proop: pusher
+- **& pest opuattre « (out plhet z Mb valve replacomen!**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - & pest opuattre « (out plhet z Mb valve replacomen!
+- **C¥ Yaw back en oral alt conjla” Goheduled Pe**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - C¥ Yaw back en oral alt conjla” Goheduled Pe
+- **Yep ae i Ung JV 9219**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Yep ae i Ung JV 9219
+- **Ce Moeltrel yun deurcth ea of Heat Bs - leqdint fil aie)**
+  - *Frequency*: 1
+  - *Years*: 2018
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Ce Moeltrel yun deurcth ea of Heat Bs - leqdint fil aie)
+- **Thremlo Blrale cae! dary ae**
+  - *Frequency*: 1
+  - *Years*: 2018
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Thremlo Blrale cae! dary ae
+- **Here ey _DEcun FUE**
+  - *Frequency*: 1
+  - *Years*: 2018
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Here ey _DEcun FUE
+- **wpe Lowe _ T- >Re**
+  - *Frequency*: 1
+  - *Years*: 2018
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - wpe Lowe _ T- >Re
+- **ia ak A Coudtac 90g.**
+  - *Frequency*: 1
+  - *Years*: 2018
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ia ak A Coudtac 90g.
+- **(2 Beeler caro “DySeauts Le pastor**
+  - *Frequency*: 1
+  - *Years*: 2018
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - (2 Beeler caro “DySeauts Le pastor
+- **mn Od ofp yoone «take C ont bluahtr : Lie afn G anedttele**
+  - *Frequency*: 1
+  - *Years*: 2018
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - mn Od ofp yoone «take C ont bluahtr : Lie afn G anedttele
+- **Cus . of PI uy, ool pe. toho & fenoe Cow 4 vw cho Gl ds**
+  - *Frequency*: 1
+  - *Years*: 2018
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Cus . of PI uy, ool pe. toho & fenoe Cow 4 vw cho Gl ds
+- **ye > MbS % 367 ) fe obrel ps [yestoh a alae**
+  - *Frequency*: 1
+  - *Years*: 2018
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ye > MbS % 367 ) fe obrel ps [yestoh a alae
+- **Lo Poor eg-n ve] 9 20 te**
+  - *Frequency*: 1
+  - *Years*: 2018
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Lo Poor eg-n ve] 9 20 te
+- **ra vtlaly overt fbr, whe had tad yora boon spe aby**
+  - *Frequency*: 1
+  - *Years*: 2018
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ra vtlaly overt fbr, whe had tad yora boon spe aby
+- **roel Omithya © {flare J Vecmonrian a Ak**
+  - *Frequency*: 1
+  - *Years*: 2018
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - roel Omithya © {flare J Vecmonrian a Ak
+- **ie Agobed! os phre Sufphele Cony) She ages Pvt &**
+  - *Frequency*: 1
+  - *Years*: 2018
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ie Agobed! os phre Sufphele Cony) She ages Pvt &
+- **cop wend oles is chobin esfecoue, o hail La**
+  - *Frequency*: 1
+  - *Years*: 2018
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - cop wend oles is chobin esfecoue, o hail La
+- **on abyral UP RR. fat — oltveds fod’ nan iets**
+  - *Frequency*: 1
+  - *Years*: 2018
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - on abyral UP RR. fat — oltveds fod’ nan iets
+- **Whe: deuld he th Com 2 % Hore ill**
+  - *Frequency*: 1
+  - *Years*: 2018
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Whe: deuld he th Com 2 % Hore ill
+- **Bockocle ¢ Fythor, Agw A (ow. Cool Ae hcg?**
+  - *Frequency*: 1
+  - *Years*: 2018
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Bockocle ¢ Fythor, Agw A (ow. Cool Ae hcg?
+- **[ Pops rT ie x 20 fuk.**
+  - *Frequency*: 1
+  - *Years*: 2018
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - [ Pops rT ie x 20 fuk.
+- **) Shun eahig fufesion An eitrub. Gy f cst**
+  - *Frequency*: 1
+  - *Years*: 2018
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ) Shun eahig fufesion An eitrub. Gy f cst
+- **ozs ee Spat on FO G led =**
+  - *Frequency*: 1
+  - *Years*: 2018
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ozs ee Spat on FO G led =
+- **Alt chy jf Hofoertepie C hele yh**
+  - *Frequency*: 1
+  - *Years*: 2018
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Alt chy jf Hofoertepie C hele yh
+- **re Lb gal) x do tad —**
+  - *Frequency*: 1
+  - *Years*: 2018
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - re Lb gal) x do tad —
+- **Ae fore Kone Syadhors [ #4 @ fi at 21] (0 “ashe**
+  - *Frequency*: 1
+  - *Years*: 2018
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Ae fore Kone Syadhors [ #4 @ fi at 21] (0 “ashe
+- **as) Wrik Pax vi a LET: Ditcus fhe ann Huhe My.**
+  - *Frequency*: 1
+  - *Years*: 2018
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - as) Wrik Pax vi a LET: Ditcus fhe ann Huhe My.
+- **f Hin Tranyptebir. [Pr Bevo duit] x 90 Me**
+  - *Frequency*: 1
+  - *Years*: 2018
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - f Hin Tranyptebir. [Pr Bevo duit] x 90 Me
+- **Anadthehe Comjolushten Ave. horlont Se:**
+  - *Frequency*: 1
+  - *Years*: 2018
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Anadthehe Comjolushten Ave. horlont Se:
+- **[Pofr a ois x 20 Murky | fo mash**
+  - *Frequency*: 1
+  - *Years*: 2018
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - [Pofr a ois x 20 Murky
+    - fo mash
+- **wine f teage Si | Pepe Rte t2) a ty**
+  - *Frequency*: 1
+  - *Years*: 2018
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - wine f teage Si
+    - Pepe Rte t2) a ty
+- **Spa a “ad Tune lt | x vo bani**
+  - *Frequency*: 1
+  - *Years*: 2018
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Spa a “ad Tune lt
+    - x vo bani
+- **In, /, J fx Pron woth! Aiteh'on**
+  - *Frequency*: 1
+  - *Years*: 2018
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - In, /, J fx Pron woth! Aiteh'on
+- **oi Fe Th MOE 1 o Maks,**
+  - *Frequency*: 1
+  - *Years*: 2018
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - oi Fe Th MOE 1 o Maks,
+- **) Anaci ther fe Po 7 uy }**
+  - *Frequency*: 1
+  - *Years*: 2018
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ) Anaci ther fe Po 7 uy }
+- **Dis uw be ban tira wy, ie » ool man with**
+  - *Frequency*: 1
+  - *Years*: 2018
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Dis uw be ban tira wy, ie » ool man with
+- **yh diefebes Melba G Hr LT fC Tene >**
+  - *Frequency*: 1
+  - *Years*: 2018
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - yh diefebes Melba G Hr LT fC Tene >
+- **(74 LL Ture I+) K Do Yarky ,**
+  - *Frequency*: 1
+  - *Years*: 2018
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - (74 LL Ture I+) K Do Yarky ,
+- **aD I a the otra ecthe fie Managumnt of a 2 do**
+  - *Frequency*: 1
+  - *Years*: 2018
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - aD I a the otra ecthe fie Managumnt of a 2 do
+- **poli fr paso yaa A ‘a. i 7, :**
+  - *Frequency*: 1
+  - *Years*: 2018
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - poli fr paso yaa A ‘a. i 7, :
+- **spas ‘4 Tye chee Lopregeol**
+  - *Frequency*: 1
+  - *Years*: 2018
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - spas ‘4 Tye chee Lopregeol
+- **re Pa a ae 5S, a0 yaa 7**
+  - *Frequency*: 1
+  - *Years*: 2018
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - re Pa a ae 5S, a0 yaa 7
+- **. Hour aeusborre liffen fe" adult - Discuss du**
+  - *Frequency*: 1
+  - *Years*: 2018
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - . Hour aeusborre liffen fe" adult - Discuss du
+- **smother. _ racheo. ~ derophags intel Aspairs**
+  - *Frequency*: 1
+  - *Years*: 2018
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - smother. _ racheo. ~ derophags intel Aspairs
+- **[Popo 2 ay wt Logs J x Jo narhy.**
+  - *Frequency*: 1
+  - *Years*: 2018
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - [Popo 2 ay wt Logs J x Jo narhy.
+- **of a Neonabe eolth**
+  - *Frequency*: 1
+  - *Years*: 2018
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - of a Neonabe eolth
+- **au). whet & VA CTE nusvorabor | VATER gyn 2**
+  - *Frequency*: 1
+  - *Years*: 2018
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - au). whet & VA CTE nusvorabor
+    - VATER gyn 2
+- **mitaber. ora One ¢ Maney**
+  - *Frequency*: 1
+  - *Years*: 2018
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - mitaber. ora One ¢ Maney
+- **we y bon Rhilel [Paper DA 2019] x20 nord**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - we y bon Rhilel [Paper DA 2019] x20 nord
+- **as): Dis us gnuthene Loni on fe foun 4 pomovel.**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - as): Dis us gnuthene Loni on fe foun 4 pomovel.
+- **te area of a tig olel “IAL: ro UDA 208] oo**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - te area of a tig olel “IAL: ro UDA 208] oo
+- **. foi ty (uel Lhempy eich fi**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - . foi ty (uel Lhempy eich fi
+- **Paoihe te nd ad of 2 deg oll ecu: >**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Paoihe te nd ad of 2 deg oll ecu: >
+- **é Coogee oho abi [ Popes a oct 8] x 20M &**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - é Coogee oho abi [ Popes a oct 8] x 20M &
+- **gs). Daeur foborw G  anestnes**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - gs). Daeur foborw G  anestnes
+- **V cdal, dhiaphs fn otic humnia [Pope 2 ure 1720**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - V cdal, dhiaphs fn otic humnia [Pope 2 ure 1720
+- **: ne vo optic _Pspeetion 5 pyvaluotion & atc**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - : ne vo optic _Pspeetion 5 pyvaluotion & atc
+- **weasborre ial Congen! Lb pragmehe &**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - weasborre ial Congen! Lb pragmehe &
+- **. ae), Wn a bhai fe aces enpapenk fle**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - . ae), Wn a bhai fe aces enpapenk fle
+- **[Peper TZ June 47] x oWlarky.**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - [Peper TZ June 47] x oWlarky.
+- **[oper Ww wot] x 10 Marks**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - [oper Ww wot] x 10 Marks
+- **QL: Pscuss anaesthebt consiclesalione mM 4 Polrent. with *u**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - QL: Pscuss anaesthebt consiclesalione mM 4 Polrent. with *u
+- **a2. HELP in (‘Fopu 2] jtoMorky Dodo. 4 2018**
+  - *Frequency*: 1
+  - *Years*: 2018
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - a2. HELP in (‘Fopu 2] jtoMorky Dodo. 4 2018
+- **@3- Teseute th Mnadtemucal and Physiobogrcol changes Lal**
+  - *Frequency*: 1
+  - *Years*: 2018
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - @3- Teseute th Mnadtemucal and Physiobogrcol changes Lal
+- **Occur luvin egn . De**
+  - *Frequency*: 1
+  - *Years*: 2018
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Occur luvin egn . De
+- **~ LS¢S [ Rho T] 20 Marks age ado}**
+  - *Frequency*: 1
+  - *Years*: 2018
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ~ LS¢S [ Rho T] 20 Marks age ado}
+- **Diploma. uguit Lo2/-**
+  - *Frequency*: 1
+  - *Years*: 2018
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Diploma. uguit Lo2/-
+- **GS: Vseurs mn olofoil votive evaluab'en , ophien'zahon anel**
+  - *Frequency*: 1
+  - *Years*: 2018
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - GS: Vseurs mn olofoil votive evaluab'en , ophien'zahon anel
+- **Management of Fae wrth hu jincluerd impair, mrant of Live,**
+  - *Frequency*: 1
+  - *Years*: 2018
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Management of Fae wrth hu jincluerd impair, mrant of Live,
+- **functions prt fw ACE 7 [ Fife 1] 20 Marks Hugut Dod |.**
+  - *Frequency*: 1
+  - *Years*: 2018
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - functions prt fw ACE 7 [ Fife 1] 20 Marks Hugut Dod |.
+- **Of. Supine uy otenson Syndrome [ Pope 1] 10 Nferks gut 202}**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Of. Supine uy otenson Syndrome [ Pope 1] 10 Nferks gut 202}
+- **' \ cal. un n . Discuss**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ' \ cal. un n . Discuss
+- **a Ge dat fort fe**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - a Ge dat fort fe
+- **amu theltc inplicabons**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - amu theltc inplicabons
+- **thetic ses [ofa x o Maks July 020.**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - thetic ses [ofa x o Maks July 020.
+- **tetopit frfleny under Basin Faadsngs tes**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - tetopit frfleny under Basin Faadsngs tes
+- **ci) einteal. — fruentation**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ci) einteal. — fruentation
+- **i) Trasherahie phinizahen-**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - i) Trasherahie phinizahen-
+- **(ni) Anes thebe, Manggerrent: [Pp aq VAL0 1]**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - (ni) Anes thebe, Manggerrent: [Pp aq VAL0 1]
+- **wt dhe Mnaestsche amanagemeat**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - wt dhe Mnaestsche amanagemeat
+- **Parsrile tin alata Lumbor jpilaal gee rs**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Parsrile tin alata Lumbor jpilaal gee rs
+- **with the Arent  Livnols - I MD zora | 20 :**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - with the Arent  Livnols - I MD zora
+    - 20 :
+- **est) Powile pf iol real 4, f hy Ta 7**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - est) Powile pf iol real 4, f hy Ta 7
+- **sbolay fs G feta 4 MD oo}**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - sbolay fs G feta 4 MD oo}
+- **papery tndutrdl A gotedion:**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - papery tndutrdl A gotedion:
+- **O12). —_ a pertntabrore 7 per i a**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - O12). —_ a pertntabrore 7 per i a
+- **wa [ Ata’ ook: 018 )e ao Works**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - wa [ Ata’ ook: 018 )e ao Works
+- **an elie Mnalpeua [ Pope BDA 4019 |**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - an elie Mnalpeua [ Pope BDA 4019 |
+- **opieta shilebic Mnelye he**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - opieta shilebic Mnelye he
+- **Cte) whit f atl about Be po A Dabous**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Cte) whit f atl about Be po A Dabous
+- **iva fe 4. Methods of lease L**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - iva fe 4. Methods of lease L
+- **: QB Ametol'c Pils eorbrlitssr lores ( B- PIP IF)**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - : QB Ametol'c Pils eorbrlitssr lores ( B- PIP IF)
+- **quip nuh |~ War we wy**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - quip nuh |~ War we wy
+- **ca fh fain of rtnaualevia. Mrchne and ubrhilebin.**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ca fh fain of rtnaualevia. Mrchne and ubrhilebin.
+- **[Peper 1 May 2] Yolo**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - [Peper 1 May 2] Yolo
+- **a2) USG in Mnacitheuin [ Popes = ey 2] fo Marky,**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - a2) USG in Mnacitheuin [ Popes = ey 2] fo Marky,
+- **au), Tig aentrolled infosien anaeclhera [ fy a WV ‘ag Ten 22]**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - au), Tig aentrolled infosien anaeclhera [ fy a WV ‘ag Ten 22]
+- **as) ECMO [Pes W May-June 22] fonrks.**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - as) ECMO [Pes W May-June 22] fonrks.
+- **a). Mapbion’s Lrautl [ pofen x uget ot] Lo More**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - a). Mapbion’s Lrautl [ pofen x uget ot] Lo More
+- **ar) DLT’s | Pf. T Avgut 2] Aonforbs**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ar) DLT’s
+    - Pf. T Avgut 2] Aonforbs
+- **as) Lapromsliy [Popa T August 21] tonite**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - as) Lapromsliy [Popa T August 21] tonite
+- **the Uartous Breht/**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - the Uartous Breht/
+- **ts) haf ig Ongen Thay 7 WHE a**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ts) haf ig Ongen Thay 7 WHE a
+- **anode. 4 oa suf and method! ay cued f Be**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - anode. 4 oa suf and method! ay cued f Be
+- **ais) thot an th aslo, Vent today 9 wtb abel he**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ais) thot an th aslo, Vent today 9 wtb abel he
+- **Monagpment Mechanital Urn Makin  uncler ply husdh, =**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Monagpment Mechanital Urn Makin  uncler ply husdh, =
+- **a) Apihiation 4) Monttoring ©) Venous Abe bogies A infrore ~y**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - a) Apihiation 4) Monttoring ©) Venous Abe bogies A infrore ~y
+- **Aa cutters ) whanng [Fp 7 Agel ai] wie 7**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Aa cutters ) whanng [Fp 7 Agel ai] wie 7
+- **eit) api aan of ness Mashine [nfo a Arpt nil**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - eit) api aan of ness Mashine [nfo a Arpt nil
+- **as) Despbaere [Fyfs. mPa ifoma, Spat 2 J] so the**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - as) Despbaere [Fyfs. mPa ifoma, Spat 2 J] so the
+- **av) whaaiy fam Medboartol. dentlation [ Pohor m Po Diplo igi) ®**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - av) whaaiy fam Medboartol. dentlation [ Pohor m Po Diplo igi) ®
+- **Donde } phav0y 0"**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Donde } phav0y 0"
+- **Heat horituto Exchange (sme ) [ 4a J ay full**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Heat horituto Exchange (sme ) [ 4a J ay full
+- **ais) nfl Mochansma to prreet Aho diliny ‘i yy h**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ais) nfl Mochansma to prreet Aho diliny ‘i yy h
+- **tn Anaclheia anachvints [ fae I y Pore} 10 sad**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - tn Anaclheia anachvints [ fae I y Pore} 10 sad
+- **Arideore jf weaaing [Popes t Sly ate lo Morks.**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Arideore jf weaaing [Popes t Sly ate lo Morks.
+- **a7) cof a4. glotli Ming dom Au [ of L Jul zo] Yo Marks,**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - a7) cof a4. glotli Ming dom Au [ of L Jul zo] Yo Marks,
+- **Is) Voli Oxi'medas [Pope ik P6 piplome. Faly 20] 10 Works**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Is) Voli Oxi'medas [Pope ik P6 piplome. Faly 20] 10 Works
+- **LD Dorota lo lef ae Loufenialion 72) Vipovieer-**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - LD Dorota lo lef ae Loufenialion 72) Vipovieer-
+- **Pot. 4 DA Pol Marky,**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Pot. 4 DA Pol Marky,
+- **ay i G mel Or Aled**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ay i G mel Or Aled
+- **) Basing Chew t ; TJunchinal Naal geo.**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ) Basing Chew t ; TJunchinal Naal geo.
+- **Cruut 4 7 - to aarky**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Cruut 4 7 - to aarky
+- **anerthera mae Ane**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - anerthera mae Ane
+- **#1) wWub a WNele ov Ah evaluten é, ,**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - #1) wWub a WNele ov Ah evaluten é, ,
+- **thera. ora occhine**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - thera. ora occhine
+- **for Eales ffs rn thy fale**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - for Eales ffs rn thy fale
+- **Work Sabin <° Knumeral  Uaw'eud d te**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Work Sabin <° Knumeral  Uaw'eud d te
+- **pp de [py ra nn)**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - pp de [py ra nn)
+- **Unt Prinuple [es r Pa Zeit) 10 orks.**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Unt Prinuple [es r Pa Zeit) 10 orks.
+- **Ko-axial Mauthehs sytem - [ Pope Th PS 2019 ] jo Mohs**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Ko-axial Mauthehs sytem - [ Pope Th PS 2019 ] jo Mohs
+- **tx), Role qf TEE Ly SMneitherta [ fapos W Pa od 3 ] to Mosks**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - tx), Role qf TEE Ly SMneitherta [ fapos W Pa od 3 ] to Mosks
+- **dz), FAST HuG in Tete [ fof Pa ot 18] tonforky**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - dz), FAST HuG in Tete [ fof Pa ot 18] tonforky
+- **a) T-Gel [ Pop wy PG oct 19] somos**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - a) T-Gel [ Pop wy PG oct 19] somos
+- **Soca dime [ frfer HZ Pa oct 12] 10 marks**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Soca dime [ frfer HZ Pa oct 12] 10 marks
+- **Derovbe Anata Gotunel. Tugls Von. Orit aneprod! f**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Derovbe Anata Gotunel. Tugls Von. Orit aneprod! f
+- **Conmashi., indtEebior , tomplicalere « [ Pufan I iw 14] Lo lords**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Conmashi., indtEebior , tomplicalere « [ Pufan I iw 14] Lo lords
+- **C 3c lad; ae oy i**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - C 3c lad; ae oy i
+- **i “ Anssethy, Uap owvrey r Popes n Jone rn) x [ov Wark.**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - i “ Anssethy, Uap owvrey r Popes n Jone rn) x [ov Wark.
+- **Fou l Peper DQ Jun ”) 5 anetiaake**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Fou l Peper DQ Jun ”) 5 anetiaake
+- **Wily of fai fberal fee hinulas f Maen tharslositt**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: 32
+  - *Variations*:
+    - Wily of fai fberal fee hinulas f Maen tharslositt
+- **a [ Pofea W Tune a) x to Canby**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - a [ Pofea W Tune a) x to Canby
+- **Mncsthri a 2 Circus [ Rife L Jun n) x 10 Masks**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Mncsthri a 2 Circus [ Rife L Jun n) x 10 Masks
+- **Enumerati fy Own fol dof deuiteg in Aner theva**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Enumerati fy Own fol dof deuiteg in Aner theva
+- **athe iyttem [Rj 1 dre rae 16 masks**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - athe iyttem [Rj 1 dre rae 16 masks
+- **Mechauteal cath’ acu. 1 Wits \14J**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Mechauteal cath’ acu. 1 Wits \14J
+- **St), Statishieal Method! turd dn ucareh [ fort hy #2] x romuh**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - St), Statishieal Method! turd dn ucareh [ fort hy #2] x romuh
+- **ty) Discharge Anite. for coy Core Anasulhute |) fort itay Pigu**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ty) Discharge Anite. for coy Core Anasulhute |) fort itay Pigu
+- **XE won in Anaerthuta [Popes w ope wz 10**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - XE won in Anaerthuta [Popes w ope wz 10
+- **%) Tevet Lonhelled infusron ants thera, [ Paper 0] Pag Boe 2D pi**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - %) Tevet Lonhelled infusron ants thera, [ Paper 0] Pag Boe 2D pi
+- **%) Enhanced face apa SE RAS) [Popes Te 21) 10 tosh**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - %) Enhanced face apa SE RAS) [Popes Te 21) 10 tosh
+- **, Low fie stnacthute [ Ps D Auger] (0 Marky.**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - , Low fie stnacthute [ Ps D Auger] (0 Marky.
+- **. epi G adnan’ logit [ Paper a Huy 1] x 1s Marky**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - . epi G adnan’ logit [ Paper a Huy 1] x 1s Marky
+- **. What so the analomeed G pigeolegicat Khanges**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - . What so the analomeed G pigeolegicat Khanges
+- **of aye Dos Laie. poiopucde hae of fiat elolaty**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - of aye Dos Laie. poiopucde hae of fiat elolaty
+- **[ Pope u nag ai] x co Warks**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - [ Pope u nag ai] x co Warks
+- **Peutopuiahie. deliniom [ opr Hyg?**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Peutopuiahie. deliniom [ opr Hyg?
+- **Gis) what ¥ ERAS 2 What oe erioperabre Measures**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Gis) what ¥ ERAS 2 What oe erioperabre Measures
+- **fy achieve Ib? [Pope w ay at] x2 mors**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - fy achieve Ib? [Pope w ay at] x2 mors
+- **a1) Sip went. [psp HF ry ex] x mosht**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - a1) Sip went. [psp HF ry ex] x mosht
+- **0x) Cpcr ~ Lalit gree [fap Ww mug at] x to Morks**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - 0x) Cpcr ~ Lalit gree [fap Ww mug at] x to Morks
+- **a8) Doscribe bwiefly Voru'ous fodigioes Osvu3 ayenment Ark.**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - a8) Doscribe bwiefly Voru'ous fodigioes Osvu3 ayenment Ark.
+- **eOwt ely th atone gened unanbeypated alffieutt**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - eOwt ely th atone gened unanbeypated alffieutt
+- **4%) Monifewd Anacitiure, Lore [ Ff**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - 4%) Monifewd Anacitiure, Lore [ Ff
+- **81s) olnien Gop [ fof Lr Diploma, my a] x yo Wakes.**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - 81s) olnien Gop [ fof Lr Diploma, my a] x yo Wakes.
+- **GN) metubelic leider [ Paper L Diploma ny 2] x podtuhs**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - GN) metubelic leider [ Paper L Diploma ny 2] x podtuhs
+- **ZT Diploma ohyg 4] x10 tos |**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ZT Diploma ohyg 4] x10 tos |
+- **(2020c, 2022c, 2025c)**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - (2020c, 2022c, 2025c)
+- **function. (2020b, 2023a)**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - function. (2020b, 2023a)
+- **surgery). (2021a, 2022a)**
+  - *Frequency*: 1
+  - *Years*: 2021
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - surgery). (2021a, 2022a)
+- **Pheochromocytoma: Perioperative**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Pheochromocytoma: Perioperative
+- **resection. (2023a, 2023b - listed as two**
+  - *Frequency*: 1
+  - *Years*: 2023
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - resection. (2023a, 2023b - listed as two
+- **separate points in the same year)**
+  - *Frequency*: 1
+  - *Years*: 2023
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - separate points in the same year)
+- **Thoracic Surgery: Anesthetic**
+  - *Frequency*: 1
+  - *Years*: 2023
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Thoracic Surgery: Anesthetic
+- **management for thoracic procedures**
+  - *Frequency*: 1
+  - *Years*: 2023
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - management for thoracic procedures
+- **(VATS lobectomy). (2023a - factors**
+  - *Frequency*: 1
+  - *Years*: 2023
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - (VATS lobectomy). (2023a - factors
+- **Diabetes mellitus preoperative evaluation**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Diabetes mellitus preoperative evaluation
+- **and intraoperative management. (2020a)**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - and intraoperative management. (2020a)
+- **Neonatal congenital diaphragmatic**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Neonatal congenital diaphragmatic
+- **hernia management. (2020c)**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - hernia management. (2020c)
+- **patient. (2021b)**
+  - *Frequency*: 1
+  - *Years*: 2021
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - patient. (2021b)
+- **Age-related changes in geriatric patients**
+  - *Frequency*: 1
+  - *Years*: 2021
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Age-related changes in geriatric patients
+- **& effect on anesthesia. (2023c)**
+  - *Frequency*: 1
+  - *Years*: 2023
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - & effect on anesthesia. (2023c)
+- **thyroidectomy. (2025b)**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - thyroidectomy. (2025b)
+- **(BCIS) (2020a, 2022g, 2022h)**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - (BCIS) (2020a, 2022g, 2022h)
+- **ECMO (VV vs VA) (2023i, 2025g)**
+  - *Frequency*: 1
+  - *Years*: 2023
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ECMO (VV vs VA) (2023i, 2025g)
+- **(Retrobulbar) (2022a)**
+  - *Frequency*: 1
+  - *Years*: 2022
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - (Retrobulbar) (2022a)
+- **(2021h) / Hemophilia (2023h)**
+  - *Frequency*: 1
+  - *Years*: 2021
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - (2021h) / Hemophilia (2023h)
+- **Related Complications (AFE) (2025h)**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Related Complications (AFE) (2025h)
+- **ASA grading (2023c)**
+  - *Frequency*: 1
+  - *Years*: 2023
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ASA grading (2023c)
+- **Rendisivir (2020d)**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Rendisivir (2020d)
+- **Anaesthetic Management for squint**
+  - *Frequency*: 1
+  - *Years*: 2021
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Anaesthetic Management for squint
+- **L.A.S.T. (2021d)**
+  - *Frequency*: 1
+  - *Years*: 2021
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - L.A.S.T. (2021d)
+- **Flow Volume Loops (2022d)**
+  - *Frequency*: 1
+  - *Years*: 2022
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Flow Volume Loops (2022d)
+- **Gullain Barre syndrome (2022e)**
+  - *Frequency*: 1
+  - *Years*: 2022
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Gullain Barre syndrome (2022e)
+- **Intra-operative bronchospasm causes &**
+  - *Frequency*: 1
+  - *Years*: 2022
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Intra-operative bronchospasm causes &
+- **management (2023a)**
+  - *Frequency*: 1
+  - *Years*: 2023
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - management (2023a)
+- **Effects of chronic smoking (2023d)**
+  - *Frequency*: 1
+  - *Years*: 2023
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Effects of chronic smoking (2023d)
+- **Non-Operating Room Anaesthesia**
+  - *Frequency*: 1
+  - *Years*: 2023
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Non-Operating Room Anaesthesia
+- **Thyroid storm (2025a)**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Thyroid storm (2025a)
+- **Aug-2021: Q1c. Anaesthetic**
+  - *Frequency*: 1
+  - *Years*: 2021
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Aug-2021: Q1c. Anaesthetic
+- **May-2022: Q1b. Anaesthetic**
+  - *Frequency*: 1
+  - *Years*: 2022
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - May-2022: Q1b. Anaesthetic
+- **posted for primary repair of tracheo**
+  - *Frequency*: 1
+  - *Years*: 2022
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - posted for primary repair of tracheo
+- **Jan-2025: Q1a. Anaesthetic**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Jan-2025: Q1a. Anaesthetic
+- **Aug-2021: Q2g. Management of**
+  - *Frequency*: 1
+  - *Years*: 2021
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Aug-2021: Q2g. Management of
+- **Pheochromocytoma (Short Note).**
+  - *Frequency*: 1
+  - *Years*: 2021
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Pheochromocytoma (Short Note).
+- **May-2022: Qla. Diagnosis, pre-op**
+  - *Frequency*: 1
+  - *Years*: 2022
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - May-2022: Qla. Diagnosis, pre-op
+- **preparation and perioperative**
+  - *Frequency*: 1
+  - *Years*: 2022
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - preparation and perioperative
+- **management of a patient having**
+  - *Frequency*: 1
+  - *Years*: 2022
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - management of a patient having
+- **pheochromocytoma (Long Answer).**
+  - *Frequency*: 1
+  - *Years*: 2022
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - pheochromocytoma (Long Answer).
+- **Transplant (Salient Points only) (Short**
+  - *Frequency*: 1
+  - *Years*: 2022
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Transplant (Salient Points only) (Short
+- **Jan-2025: Q1c. A Patient with Chronic**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Jan-2025: Q1c. A Patient with Chronic
+- **Transplant... (Long Answer).**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Transplant... (Long Answer).
+- **Elderly patients.**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Elderly patients.
+- **Aug-2021: Q1b. Describe perioperative**
+  - *Frequency*: 1
+  - *Years*: 2021
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Aug-2021: Q1b. Describe perioperative
+- **Jan-2025: Q2h. Anaesthetic challenges**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Jan-2025: Q2h. Anaesthetic challenges
+- **in a Geriatric Patient (Short Note).**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - in a Geriatric Patient (Short Note).
+- **Diabetes Mellitus and DKA (Aug-2021:**
+  - *Frequency*: 1
+  - *Years*: 2021
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Diabetes Mellitus and DKA (Aug-2021:
+- **Sickle Cell Disease for surgery**
+  - *Frequency*: 1
+  - *Years*: 2021
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Sickle Cell Disease for surgery
+- **Procedure (Jun-2023: Q1a)**
+  - *Frequency*: 1
+  - *Years*: 2023
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Procedure (Jun-2023: Q1a)
+- **Jun-2023: Q1a - second part)**
+  - *Frequency*: 1
+  - *Years*: 2023
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Jun-2023: Q1a - second part)
+- **surgery (Jan-2025: Q1b)**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - surgery (Jan-2025: Q1b)
+- **Thyroid Storm/Crisis**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Thyroid Storm/Crisis
+- **Aug-2021: Q2d. Thyroid storm**
+  - *Frequency*: 1
+  - *Years*: 2021
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Aug-2021: Q2d. Thyroid storm
+- **Aug-2021: Q2a. Anaesthetic**
+  - *Frequency*: 1
+  - *Years*: 2021
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Aug-2021: Q2a. Anaesthetic
+- **consideration and management of Post**
+  - *Frequency*: 1
+  - *Years*: 2022
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - consideration and management of Post
+- **TRALI, Postoperative delirium, Role of**
+  - *Frequency*: 1
+  - *Years*: 2021
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - TRALI, Postoperative delirium, Role of
+- **Jun-2023 Paper: Recombinant Factor**
+  - *Frequency*: 1
+  - *Years*: 2023
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Jun-2023 Paper: Recombinant Factor
+- **Anaesthetic considerations of Robotic**
+  - *Frequency*: 1
+  - *Years*: 2023
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Anaesthetic considerations of Robotic
+- **Urological Surgery, Bone Cement**
+  - *Frequency*: 1
+  - *Years*: 2023
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Urological Surgery, Bone Cement
+- **steps for declaration. (2022b, 2023a - as**
+  - *Frequency*: 1
+  - *Years*: 2022
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - steps for declaration. (2022b, 2023a - as
+- **management, and treatment plans.**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - management, and treatment plans.
+- **(SSC, CPCR). (2021h, 2023a)**
+  - *Frequency*: 1
+  - *Years*: 2021
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - (SSC, CPCR). (2021h, 2023a)
+- **Chronic Disease Management:**
+  - *Frequency*: 1
+  - *Years*: 2021
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Chronic Disease Management:
+- **considerations and management for**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - considerations and management for
+- **and latest AHA guidelines. (2020a)**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - and latest AHA guidelines. (2020a)
+- **and complications. (2021a)**
+  - *Frequency*: 1
+  - *Years*: 2021
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - and complications. (2021a)
+- **ERAS: Perioperative measures. (2021b)**
+  - *Frequency*: 1
+  - *Years*: 2021
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ERAS: Perioperative measures. (2021b)
+- **Recent advances in intrauterine fetal**
+  - *Frequency*: 1
+  - *Years*: 2022
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Recent advances in intrauterine fetal
+- **surgeries. (2023b)**
+  - *Frequency*: 1
+  - *Years*: 2023
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - surgeries. (2023b)
+- **Role of simulators in anesthesia training.**
+  - *Frequency*: 1
+  - *Years*: 2023
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Role of simulators in anesthesia training.
+- **ECMO (2019f, 2020h, 2022e)**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ECMO (2019f, 2020h, 2022e)
+- **ERAS Protocol (2021b, 2023h, 2025b)**
+  - *Frequency*: 1
+  - *Years*: 2021
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ERAS Protocol (2021b, 2023h, 2025b)
+- **Coagulation Therapy (Anticoagulants &**
+  - *Frequency*: 1
+  - *Years*: 2022
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Coagulation Therapy (Anticoagulants &
+- **Antiplatelets) (2020, 2021c)**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Antiplatelets) (2020, 2021c)
+- **Anesthesiologist) (2020c, 2020e, 2021b)**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Anesthesiologist) (2020c, 2020e, 2021b)
+- **Anaesthesia, Trigeminal Neuralgia, Failed**
+  - *Frequency*: 1
+  - *Years*: 2022
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Anaesthesia, Trigeminal Neuralgia, Failed
+- **Hypokalemia, POCUS**
+  - *Frequency*: 1
+  - *Years*: 2023
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Hypokalemia, POCUS
+- **Al in OR, Methaemoglobinemia, Peds Life**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Al in OR, Methaemoglobinemia, Peds Life
+
+### Monitoring
+- **Draw a neat labelled diagram of NMJ. Discuss the**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Draw a neat labelled diagram of NMJ. Discuss the
+- **Describe anatomy and physiology of NMJ junction and**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Describe anatomy and physiology of NMJ junction and
+- **« 9) Jupular venous oximetry vs gular Venous Pressure**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - « 9) Jupular venous oximetry vs gular Venous Pressure
+- **BIS-monitoring /**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - BIS-monitoring /
+- **cardiae output monitoring and its implication.**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - cardiae output monitoring and its implication.
+- **S- Bisewn te Preop puapake**
+  - *Frequency*: 1
+  - *Years*: 2021
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - S- Bisewn te Preop puapake
+- **) BIS Moaidving [ Pfs 2 el 2] 4o Marks .**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ) BIS Moaidving [ Pfs 2 el 2] 4o Marks .
+- **, Bispechal Inde Monn r f ju PG act 12] to efasks**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - , Bispechal Inde Monn r f ju PG act 12] to efasks
+- **J Bis natty [ Pofo I Fone 12] ¥ Jo Muh.**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - J Bis natty [ Pofo I Fone 12] ¥ Jo Muh.
+- **BIS Monitoring (2022g) / Goals of PAC &**
+  - *Frequency*: 1
+  - *Years*: 2022
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - BIS Monitoring (2022g) / Goals of PAC &
+- **2023: RFA, Cerebral oximetry, Al in OR,**
+  - *Frequency*: 1
+  - *Years*: 2023
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - 2023: RFA, Cerebral oximetry, Al in OR,
+
+### Obstetric Anaesthesia
+- **Describe physiological changes of pregnancy. What is**
+  - *Frequency*: 2
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Describe physiological changes of pregnancy. What is
+    - Describe physiological changes during pregnancy
+- **Treatment of amniotic fluid Embolism.**
+  - *Frequency*: 2
+  - *Years*: 2025
+  - *Papers*: Paper 1, Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Amniotic Fluid Embolism (2025h)
+    - Treatment of amniotic fluid Embolism.
+- **what is the etiology and pathogenesis of pregnancy**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - what is the etiology and pathogenesis of pregnancy
+- **Write precisely about the pain pathway during labour.**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Write precisely about the pain pathway during labour.
+- **Enumerate various methods of painless labour.**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Enumerate various methods of painless labour.
+- **pregnancy. discuss that as the management of a 39**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - pregnancy. discuss that as the management of a 39
+- **week of pregnancy with painless vagina bleeding**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - week of pregnancy with painless vagina bleeding
+- **Describe role of epidural for labour pain. Discuss**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Describe role of epidural for labour pain. Discuss
+- **in patients with epidural catheter in place for labour**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - in patients with epidural catheter in place for labour
+- **Role in emergency obstetrics**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 3
+  - *Marks*: N/A
+  - *Variations*:
+    - Role in emergency obstetrics
+- **?5 Describe the anaesthetic considerations of patient scheduled for LSCS for obstructed labor and**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ?5 Describe the anaesthetic considerations of patient scheduled for LSCS for obstructed labor and
+- **Discuss anaesthetic considerations in a patient with aiptured ectopic pregnancy posted**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 3
+  - *Marks*: N/A
+  - *Variations*:
+    - Discuss anaesthetic considerations in a patient with aiptured ectopic pregnancy posted
+- **b. Describe the pathological alterations in body that occur due to preeclampsia. Write in**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - b. Describe the pathological alterations in body that occur due to preeclampsia. Write in
+- **Discuss anesthetic consideration for elective LSCS of a near term pregnant patients with severe**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - Discuss anesthetic consideration for elective LSCS of a near term pregnant patients with severe
+- **G4. Physi hooges ey Pregnancy [ faz] to Morks**
+  - *Frequency*: 1
+  - *Years*: 2018
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - G4. Physi hooges ey Pregnancy [ faz] to Morks
+- **Obstetric Emergencies: Anesthetic**
+  - *Frequency*: 1
+  - *Years*: 2021
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Obstetric Emergencies: Anesthetic
+- **management for obstetric complications**
+  - *Frequency*: 1
+  - *Years*: 2021
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - management for obstetric complications
+- **(LSCS with comorbidity, rupture uterus).**
+  - *Frequency*: 1
+  - *Years*: 2021
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - (LSCS with comorbidity, rupture uterus).
+- **HELLP Syndrome (2022b) / Obstetric-**
+  - *Frequency*: 1
+  - *Years*: 2022
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - HELLP Syndrome (2022b) / Obstetric-
+- **qSOFA, HELLP Syndrome, Sepsis &**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - qSOFA, HELLP Syndrome, Sepsis &
+- **Labour Analgesia, Sugammadex,**
+  - *Frequency*: 1
+  - *Years*: 2023
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Labour Analgesia, Sugammadex,
+
+### Paediatric Anaesthesia
+- **a What are the anaesthetic challenges of pediatric patients. Describe we anaesthetic**
+  - *Frequency*: 4
+  - *Years*: 2019, 2022, 2025
+  - *Papers*: Paper 2, Paper 3
+  - *Marks*: N/A
+  - *Variations*:
+    - a What are the anaesthetic challenges of pediatric patients. Describe we anaesthetic
+    - Anaesthetic challenges for
+    - Anaesthetic Challenges in Bronchoscopy,
+    - Anaesthetic challenges in
+- **Describe the management of a 3 year old child with**
+  - *Frequency*: 2
+  - *Years*: N/A
+  - *Papers*: Paper 2, Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Describe the management of a 3 year old child with
+    - epidural anesthesia in a 2 year old child.
+- **‘Discuss the anaesthetic management of 15 months old child posted for Cleft Palate Repair. 10**
+  - *Frequency*: 2
+  - *Years*: 2025
+  - *Papers*: Paper 4, Paper II1
+  - *Marks*: N/A
+  - *Variations*:
+    - ‘Discuss the anaesthetic management of 15 months old child posted for Cleft Palate Repair. 10
+    - management of a child posted for cleft palate repair
+- **. Anaesthetic management of 2yr old child with vegetable foreign body in right**
+  - *Frequency*: 2
+  - *Years*: 2025
+  - *Papers*: Paper 1, Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - with vegetable foreign body in right bronchus
+    - . Anaesthetic management of 2yr old child with vegetable foreign body in right
+- **Premature infants, Biomarkers, VAP**
+  - *Frequency*: 2
+  - *Years*: 2019
+  - *Papers*: Paper 2, Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - premature infants and
+    - Premature infants, Biomarkers, VAP
+- **complications of tonsillectomy in a 7 year old child**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - complications of tonsillectomy in a 7 year old child
+- **How a newborn differs from adult. Discuss the**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - How a newborn differs from adult. Discuss the
+- **Discuss anesthetic considerations in a 1 year old child**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Discuss anesthetic considerations in a 1 year old child
+- **anaesthetic management of the newborn having**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - anaesthetic management of the newborn having
+- **a 4 years child for squint**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - a 4 years child for squint
+- **in paediatric patients**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - in paediatric patients
+- **Describe temperature regulation in a neonate and methods of perioperative temperature**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Describe temperature regulation in a neonate and methods of perioperative temperature
+- **4A lo-month-old infant weighing 8 kg i scheduled for elective cleft palate repair. The child was**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - 4A lo-month-old infant weighing 8 kg i scheduled for elective cleft palate repair. The child was
+- **the anesthetic management ofthis child with postaperative analgesia**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: 10
+  - *Variations*:
+    - the anesthetic management ofthis child with postaperative analgesia
+- **2 Discuss the anaesthesia concerns in a 2 year old child posted for Congenital Diaphr**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper II1
+  - *Marks*: N/A
+  - *Variations*:
+    - 2 Discuss the anaesthesia concerns in a 2 year old child posted for Congenital Diaphr
+- **Q.4 Discuss management of a two year old male child with myopathy for anterior mediastinal mass**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - Q.4 Discuss management of a two year old male child with myopathy for anterior mediastinal mass
+- **Q.7 a, Write short note on anaesthesia management in post ~tonsillectomy ‘bleeding in a'5 year old child, 5**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - Q.7 a, Write short note on anaesthesia management in post ~tonsillectomy ‘bleeding in a'5 year old child, 5
+- **in Paediatrics Life support.**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - in Paediatrics Life support.
+- **xnacdrehic Mana omen of a Newborn. of Cov70 tre**
+  - *Frequency*: 1
+  - *Years*: 2018
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - xnacdrehic Mana omen of a Newborn. of Cov70 tre
+- **au) Pre malurs A foo fiss infants G Woe free .**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - au) Pre malurs A foo fiss infants G Woe free .
+- **Anaesthetic management of a neonate/**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Anaesthetic management of a neonate/
+- **newborn for Tracheo-Oesophageal Fistula**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - newborn for Tracheo-Oesophageal Fistula
+- **management of a two day old neonate**
+  - *Frequency*: 1
+  - *Years*: 2022
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - management of a two day old neonate
+- **newborn (Jun-2023: Q1b)**
+  - *Frequency*: 1
+  - *Years*: 2023
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - newborn (Jun-2023: Q1b)
+
+### Pain
+- **Discuss the various modalities of post operative pain**
+  - *Frequency*: 2
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - operative pain. Discuss various modalities for
+    - Discuss the various modalities of post operative pain
+- **Write an overview of pain clinic. Discuss the various**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Write an overview of pain clinic. Discuss the various
+- **modalities available for management of low back pain**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - modalities available for management of low back pain
+- **PRP in chronic pain**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - PRP in chronic pain
+- **Gate control theory of pain**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Gate control theory of pain
+- **for cancer pain management**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - for cancer pain management
+- **detail about the various techniques of labor analgesia.**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - detail about the various techniques of labor analgesia.
+- **Pain Clinic and management of Low Back**
+  - *Frequency*: 1
+  - *Years*: 2022
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Pain Clinic and management of Low Back
+- **Adjuvant analgesics for cancer pain.**
+  - *Frequency*: 1
+  - *Years*: 2021
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Adjuvant analgesics for cancer pain.
+
+### Pharmacology
+- **Concentration (MAC) (2023e)**
+  - *Frequency*: 2
+  - *Years*: 2019, 2023
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Concentration (MAC) (2023e)
+    - concentration (MAC)
+- **anesthesia with isoflurane and vecuroniom and had**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - anesthesia with isoflurane and vecuroniom and had
+- **and depolarising muscle relaxants**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - and depolarising muscle relaxants
+- **pharmacotherapy for**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - pharmacotherapy for
+- **MAC and physiological and pharmacological factors affecting MAC.**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - MAC and physiological and pharmacological factors affecting MAC.
+- **‘Anaesthetic agent? Discuss propofol**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - ‘Anaesthetic agent? Discuss propofol
+- **ee. 6 co smacstesislogia wnt**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ee. 6 co smacstesislogia wnt
+- **an erthey'a amachthe. and enh dn dofarlt about Mntt**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - an erthey'a amachthe. and enh dn dofarlt about Mntt
+- **2019: Pre-oxygenation, Remifentanil,**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - 2019: Pre-oxygenation, Remifentanil,
+
+### Regional Anaesthesia
+- **Describe anatomy of brachial plexus. Enumerate**
+  - *Frequency*: 3
+  - *Years*: 2019, 2025
+  - *Papers*: Paper 1, Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Describe anatomy of brachial plexus. Enumerate
+    - Anatomy of Brachial plexus
+    - ‘of brachial plexus
+- **What are Neuraxial blocks? Write about their clinical**
+  - *Frequency*: 2
+  - *Years*: 2020
+  - *Papers*: Paper 2, Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - What are Neuraxial blocks? Write about their clinical
+    - Neuraxial blocks: clinical considerations
+- **Local Anaesthetic Toxicity (Management**
+  - *Frequency*: 2
+  - *Years*: 2019, 2020
+  - *Papers*: Paper 2, Paper 3
+  - *Marks*: N/A
+  - *Variations*:
+    - Local anaesthetic toxicity
+    - Local Anaesthetic Toxicity (Management
+- **Regional Anaesthesia Blocks (TAP Block,**
+  - *Frequency*: 2
+  - *Years*: 2020, 2021
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - TAP Block (2020b) / Regional Blocks
+    - Regional Anaesthesia Blocks (TAP Block,
+- **Describe anatomy of caudal epidural space. Describe**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Describe anatomy of caudal epidural space. Describe
+- **the technique, advantages and complications of caudal**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - the technique, advantages and complications of caudal
+- **the cause? Is there still any residual blockade and**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - the cause? Is there still any residual blockade and
+- **Describe in detail lumbar epidural analgesia along with**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Describe in detail lumbar epidural analgesia along with
+- **different approaches of brachial plexus block. Discuss**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - different approaches of brachial plexus block. Discuss
+- **B-blockers and Anesthesia**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - B-blockers and Anesthesia
+- **Walking epidural**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Walking epidural
+- **Supraclavicular block**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 3
+  - *Marks*: N/A
+  - *Variations*:
+    - Supraclavicular block
+- **Thromboelastogram**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Thromboelastogram
+- **Local anaesthetics**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Local anaesthetics
+- **‘management of Local Anesthetic Systemic Toxicity (LAST), (+5)**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ‘management of Local Anesthetic Systemic Toxicity (LAST), (+5)
+- **Caudal Anaesthesia.**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 3
+  - *Marks*: N/A
+  - *Variations*:
+    - Caudal Anaesthesia.
+- **Erector spinae plane block. Ke**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 3
+  - *Marks*: N/A
+  - *Variations*:
+    - Erector spinae plane block. Ke
+- **e. PENG block. &**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - e. PENG block. &
+- **NA Anticoagulation and regional anaesthesia,**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - NA Anticoagulation and regional anaesthesia,
+- **@ tape Wyrm Papa | 22%!**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - @ tape Wyrm Papa
+    - 22%!
+- **Thromboelastography**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - Thromboelastography
+- **PEC! & II block-**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - PEC! & II block-
+- **syndrome, Celiac plexus block,**
+  - *Frequency*: 1
+  - *Years*: 2022
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - syndrome, Celiac plexus block,
+- **Thromboplastography, Venous Air**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Thromboplastography, Venous Air
+- **Embolism, TOR Block, Management of**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Embolism, TOR Block, Management of
+- **PECs Block, QL Block) (2019- pain mgmt,**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - PECs Block, QL Block) (2019- pain mgmt,
+- **of LAST) (2019c, 2021)**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - of LAST) (2019c, 2021)
+- **2020: Thromboclastogram, RSBI,**
+  - *Frequency*: 1
+  - *Years*: 2020
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - 2020: Thromboclastogram, RSBI,
+
+### Renal
+- **Hepato renal syndrome and its anesthetic implications.**
+  - *Frequency*: 3
+  - *Years*: 2019, 2021, 2025
+  - *Papers*: Paper 2, Paper 3, Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Hepato renal syndrome and its anesthetic implications.
+    - Hepato Renal syndrome
+    - Aug-2021: Q2b. Hepato renal syndrome
+- **management for a patient of chronic renal failure**
+  - *Frequency*: 2
+  - *Years*: 2021
+  - *Papers*: Paper 2, Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - chronic conditions (Renal Failure, Liver
+    - management for a patient of chronic renal failure
+- **Hepatorenal Syndrome (2025c)**
+  - *Frequency*: 2
+  - *Years*: 2023, 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Hepato-Renal Syndrome
+    - Hepatorenal Syndrome (2025c)
+- **Enumerate physiological functions of the kidney.**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Enumerate physiological functions of the kidney.
+- **Describe renal function tests. Discuss anesthetic**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Describe renal function tests. Discuss anesthetic
+- **management of a patient scheduled for kidney**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - management of a patient scheduled for kidney
+- **prostatic enlargement to be taken for TURP**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - prostatic enlargement to be taken for TURP
+- **and diabetic patient posted for TURP**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - and diabetic patient posted for TURP
+- **Iatrogenic Hyponatremia**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Iatrogenic Hyponatremia
+- **Discuss Anesthetic considerations for a 70 year old for TURP surgery**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Discuss Anesthetic considerations for a 70 year old for TURP surgery
+- **“by Chinical features, diagnosis and treatment of Hyponatremia**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - “by Chinical features, diagnosis and treatment of Hyponatremia
+- **What are the indications of Renal transplant. Describe the Preoperative preparation,**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 3
+  - *Marks*: N/A
+  - *Variations*:
+    - What are the indications of Renal transplant. Describe the Preoperative preparation,
+- **posted for renal transplant. aS**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 3
+  - *Marks*: N/A
+  - *Variations*:
+    - posted for renal transplant. aS
+- **tb Perioperative management of seid therapy and adrenal suppression.**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - tb Perioperative management of seid therapy and adrenal suppression.
+- **preoperative evaluation of a patient with End Stage Renal Disease (ESRD) and**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper II1
+  - *Marks*: N/A
+  - *Variations*:
+    - preoperative evaluation of a patient with End Stage Renal Disease (ESRD) and
+- **,ement of a recipient posted for renal transplant. 10**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper II1
+  - *Marks*: N/A
+  - *Variations*:
+    - ,ement of a recipient posted for renal transplant. 10
+- **Q.8 a. Write short note on TURP syndrome> $**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - Q.8 a. Write short note on TURP syndrome> $
+- **Hepatorenal Syndro:**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Hepatorenal Syndro:
+- **osted for TURP surgery.**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - osted for TURP surgery.
+- **Patient with prior MI/Stent for TURP**
+  - *Frequency*: 1
+  - *Years*: 2023
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Patient with prior MI/Stent for TURP
+- **Jun-2023: Q2. Hepatorenal Syndrome.**
+  - *Frequency*: 1
+  - *Years*: 2023
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Jun-2023: Q2. Hepatorenal Syndrome.
+- **2022c - in renal transplant prep)**
+  - *Frequency*: 1
+  - *Years*: 2022
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - 2022c - in renal transplant prep)
+
+### Respiratory System
+- **Hypoxic Pulmonary Vasoconstriction.**
+  - *Frequency*: 5
+  - *Years*: 2019, 2020, 2025
+  - *Papers*: Paper 1, Paper 2, Paper 3
+  - *Marks*: N/A
+  - *Variations*:
+    - Hypoxic Pulmonary Vasoconstriction
+    - Hypoxic pulmonary
+    - Hypoxic Pulmonary
+    - Hypoxic Pulmonary Vasoconstriction.
+- **scheduled for thoracotomy.**
+  - *Frequency*: 2
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - thoracotomy. > : S.
+    - scheduled for thoracotomy.
+- **RR, later developed respiratory failure. What could be**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - RR, later developed respiratory failure. What could be
+- **management of mechanical ventilation under**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - management of mechanical ventilation under
+- **Discuss the electrical hazards in the operation room**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Discuss the electrical hazards in the operation room
+- **Describe the importance of pulmonary function tests in**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Describe the importance of pulmonary function tests in
+- **various post operative pulmonary complications.**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - various post operative pulmonary complications.
+- **years old patient with COPD and coronary artery**
+  - *Frequency*: 1
+  - *Years*: N/A
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - years old patient with COPD and coronary artery
+- **Define ARDS (acute respiratory distress syndrome).**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Define ARDS (acute respiratory distress syndrome).
+- **describe the pathophysiology of adult respiratory**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - describe the pathophysiology of adult respiratory
+- **strategy for management of post thoracotomy pain?**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - strategy for management of post thoracotomy pain?
+- **Diffusion hypoxia**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Diffusion hypoxia
+- **Non cardiogenic pulmonary**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Non cardiogenic pulmonary
+- **Cardio Pulmonary**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 3
+  - *Marks*: N/A
+  - *Variations*:
+    - Cardio Pulmonary
+- **Management of Flail chest**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Management of Flail chest
+- **Respiratory depression~**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Respiratory depression~
+- **Discuss pre operative optimization of a 60 year old male with COPD for total hip**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Discuss pre operative optimization of a 60 year old male with COPD for total hip
+- **ss indications of one lung anesthesia. Describe the management of hypoxemia**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - ss indications of one lung anesthesia. Describe the management of hypoxemia
+- **Which is FALSE concerning the respiratory function tests:**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Which is FALSE concerning the respiratory function tests:
+- **Dynamic compliance decreases as respiratory rate increases**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - Dynamic compliance decreases as respiratory rate increases
+- **What are the common gtibi6aies of perioperative pneumothorax? How de you diagnose and**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - What are the common gtibi6aies of perioperative pneumothorax? How de you diagnose and
+- **with respect to One-Lung Ventilation (OLV)**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - with respect to One-Lung Ventilation (OLV)
+- **including ventilation strategy, oxygenatjon, and monfforin**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - including ventilation strategy, oxygenatjon, and monfforin
+- **Minimum Monitoring Standards.**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - Minimum Monitoring Standards.
+- **Roe coumiaucs of lung isolation in one lung ventilation**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - Roe coumiaucs of lung isolation in one lung ventilation
+- **Definition of ARDS and ALI ah**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - Definition of ARDS and ALI ah
+- **gv Hypoxic Pulmonary Vasoconstriction.**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - gv Hypoxic Pulmonary Vasoconstriction.
+- **S What is ARDS? Describe the lung protective statesies f@Ros**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - S What is ARDS? Describe the lung protective statesies f@Ros
+- **cardiogenic Pulmonary Oedema (2021g) /**
+  - *Frequency*: 1
+  - *Years*: 2021
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - cardiogenic Pulmonary Oedema (2021g) /
+- **One Lung Ventilation (2022c)**
+  - *Frequency*: 1
+  - *Years*: 2022
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - One Lung Ventilation (2022c)
+- **dead, One Lung Ventilation, ERA S,**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - dead, One Lung Ventilation, ERA S,
+- **ARDS and lung protective strategies.**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ARDS and lung protective strategies.
+
+### Trauma
+- **with severe traumatic injury with specific reference to**
+  - *Frequency*: 1
+  - *Years*: 2019
+  - *Papers*: Paper 4
+  - *Marks*: N/A
+  - *Variations*:
+    - with severe traumatic injury with specific reference to
+- **Golden hour, Platinum hour and Silver day in Trauma.**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 1
+  - *Marks*: N/A
+  - *Variations*:
+    - Golden hour, Platinum hour and Silver day in Trauma.
+- **ean ira injury. | [ deme + WL)**
+  - *Frequency*: 1
+  - *Years*: 2025
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - ean ira injury.
+    - [ deme + WL)
+- **penetrating Eye Injury.**
+  - *Frequency*: 1
+  - *Years*: 2023
+  - *Papers*: Paper 2
+  - *Marks*: N/A
+  - *Variations*:
+    - penetrating Eye Injury.
